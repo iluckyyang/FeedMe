@@ -14,6 +14,16 @@
 export const config = {
   sources: [
     {
+      name: "橘鸦AI早报",
+      url: "https://imjuya.github.io/juya-ai-daily/rss.xml",
+      category: "AI资讯",
+    },
+    {
+      name: "地理科学进展-CNKI",
+      url: "https://rss.cnki.net/knavi/rss/DLKJ?pcode=CJFD,CCJD",
+      category: "学术期刊",
+    },    
+    {
       name: "Hacker News 近期最佳",
       url: "https://hnrss.org/best",
       category: "科技资讯",
