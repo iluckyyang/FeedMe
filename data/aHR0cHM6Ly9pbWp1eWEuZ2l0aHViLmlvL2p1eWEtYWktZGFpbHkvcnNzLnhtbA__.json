@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://imjuya.github.io/juya-ai-daily/rss.xml",
+  "title": "橘鸦AI早报",
+  "description": "资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。",
+  "link": "https://imjuya.github.io/juya-ai-daily/",
+  "items": [
+    {
+      "title": "2026-05-03",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-78/",
+      "pubDate": "Sun, 03 May 2026 00:45:37 +0000",
+      "isoDate": "2026-05-03T00:45:37.000Z",
+      "content": "AI 早报 2026-05-03 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 宣布 ChatGPT 账户可登录 openclaw 复用订阅 ↗ #1 开发生态 Codex 上线 HyperFrames 官方插件 ↗ #2 行业动态 猎豹移动 AI 网关被指抄袭开源项目遭原作者指责 ↗ #3 OpenAI 宣布 GPT-5.5 成最成功发布 Codex 七日收入翻倍 ↗ #4 Meta 收购人形机器人初创 ARI 团队加入超级智能实验室 ↗ #5 奥斯卡禁止 AI 生成表演及剧本参选第 99 届奖项 ↗ #6 前瞻与传闻 谷歌悄然更新 Gemini 3 Flash，性能接近 3.1 Pro 传或为 I/O 版本 ↗ #7 OpenAI 宣布 ChatGPT 账户可登录 openclaw 复用…",
+      "contentSnippet": "AI 早报 2026-05-03 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 宣布 ChatGPT 账户可登录 openclaw 复用订阅 ↗ #1 开发生态 Codex 上线 HyperFrames 官方插件 ↗ #2 行业动态 猎豹移动 AI 网关被指抄袭开源项目遭原作者指责 ↗ #3 OpenAI 宣布 GPT-5.5 成最成功发布 Codex 七日收入翻倍 ↗ #4 Meta 收购人形机器人初创 ARI 团队加入超级智能实验室 ↗ #5 奥斯卡禁止 AI 生成表演及剧本参选第 99 届奖项 ↗ #6 前瞻与传闻 谷歌悄然更新 Gemini 3 Flash，性能接近 3.1 Pro 传或为 I/O 版本 ↗ #7 OpenAI 宣布 ChatGPT 账户可登录 openclaw 复用…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-05-02",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-77/",
+      "pubDate": "Sat, 02 May 2026 01:20:30 +0000",
+      "isoDate": "2026-05-02T01:20:30.000Z",
+      "content": "AI 早报 2026-05-02 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI Codex 新增导入其他Agent配置功能和宠物功能 ↗ #1 OpenAI Codex 登录策略调整，大概率触发手机验证 ↗ #2 开发生态 xAI API平台上线自定义声音功能 ↗ #3 Vercel Labs 推出 AI CLI 支持终端统一生成各类媒体 ↗ #4 产品应用 Manus 推出 Cloud Computer，支持 24 小时持续运行 ↗ #5 微软 Word 推出 Legal Agent 面向法律专业人士 ↗ #6 技术与洞察 Meta AI 推出 Autodata，Agent 自主构建高质量训练数据 ↗ #7 行业动态 马斯克庭审承认 xAI 利用蒸馏技术学习 OpenAI 模型 ↗ #8…",
+      "contentSnippet": "AI 早报 2026-05-02 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI Codex 新增导入其他Agent配置功能和宠物功能 ↗ #1 OpenAI Codex 登录策略调整，大概率触发手机验证 ↗ #2 开发生态 xAI API平台上线自定义声音功能 ↗ #3 Vercel Labs 推出 AI CLI 支持终端统一生成各类媒体 ↗ #4 产品应用 Manus 推出 Cloud Computer，支持 24 小时持续运行 ↗ #5 微软 Word 推出 Legal Agent 面向法律专业人士 ↗ #6 技术与洞察 Meta AI 推出 Autodata，Agent 自主构建高质量训练数据 ↗ #7 行业动态 马斯克庭审承认 xAI 利用蒸馏技术学习 OpenAI 模型 ↗ #8…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-05-01",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-76/",
+      "pubDate": "Fri, 01 May 2026 01:59:51 +0000",
+      "isoDate": "2026-05-01T01:59:51.000Z",
+      "content": "AI 早报 2026-05-01 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布 Codex 重大更新，拓展办公场景 ↗ #1 xAI 推出 Grok 4.3 ↗ #2 OpenRouter 上线 stealth 模型 Owl Alpha ，百万上下文 ↗ #3 开发生态 Anthropic 推出 Claude Security 测试版，基于 Opus 4.7 扫描漏洞 ↗ #4 Gemini CLI 更新 v0.40.0，支持本地模型及分层记忆 ↗ #5 阿里 Qoder 推出远程控制并发布数字员工 QoderWake ↗ #6 Cloudflare 联合 Stripe 支持 AI Agent 自动完成部署 ↗ #7 OpenClaw 发布安全复盘及版本更新 ↗ #8 Hermes A…",
+      "contentSnippet": "AI 早报 2026-05-01 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布 Codex 重大更新，拓展办公场景 ↗ #1 xAI 推出 Grok 4.3 ↗ #2 OpenRouter 上线 stealth 模型 Owl Alpha ，百万上下文 ↗ #3 开发生态 Anthropic 推出 Claude Security 测试版，基于 Opus 4.7 扫描漏洞 ↗ #4 Gemini CLI 更新 v0.40.0，支持本地模型及分层记忆 ↗ #5 阿里 Qoder 推出远程控制并发布数字员工 QoderWake ↗ #6 Cloudflare 联合 Stripe 支持 AI Agent 自动完成部署 ↗ #7 OpenClaw 发布安全复盘及版本更新 ↗ #8 Hermes A…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-30",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-75/",
+      "pubDate": "Thu, 30 Apr 2026 01:26:22 +0000",
+      "isoDate": "2026-04-30T01:26:22.000Z",
+      "content": "AI 早报 2026-04-30 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 灰度测试识图模式，支持多模态理解 ↗ #1 谷歌 Gemini 上线新功能，正式支持对话直接生成多种格式文件 ↗ #2 模型发布 Mistral AI 发布 Mistral Medium 3.5 模型 ↗ #3 腾讯混元开源 Hy-MT1.5-1.8B 端侧翻译模型 ↗ #4 IBM 发布 Granite 4.1 系列开源模型 ↗ #5 蚂蚁百灵开源 Ling-2.6-1T 模型 ↗ #6 科大讯飞发布星火 X2-Flash，基于华为昇腾 910B 训练 ↗ #7 百度发布文心一言 5.1 预览版 ↗ #8 开发生态 Google AI Studio build 模式上线搜索与多会话功能 ↗ #9 Curso…",
+      "contentSnippet": "AI 早报 2026-04-30 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 灰度测试识图模式，支持多模态理解 ↗ #1 谷歌 Gemini 上线新功能，正式支持对话直接生成多种格式文件 ↗ #2 模型发布 Mistral AI 发布 Mistral Medium 3.5 模型 ↗ #3 腾讯混元开源 Hy-MT1.5-1.8B 端侧翻译模型 ↗ #4 IBM 发布 Granite 4.1 系列开源模型 ↗ #5 蚂蚁百灵开源 Ling-2.6-1T 模型 ↗ #6 科大讯飞发布星火 X2-Flash，基于华为昇腾 910B 训练 ↗ #7 百度发布文心一言 5.1 预览版 ↗ #8 开发生态 Google AI Studio build 模式上线搜索与多会话功能 ↗ #9 Curso…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-29",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-74/",
+      "pubDate": "Wed, 29 Apr 2026 01:31:01 +0000",
+      "isoDate": "2026-04-29T01:31:01.000Z",
+      "content": "AI 早报 2026-04-29 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Claude 推出创意软件连接器，支持 Blender 和 Adobe 系列等多种工具 ↗ #1 DeepSeek 延长 V4-Pro 模型 2.5 折优惠至 5 月 31 日 ↗ #2 模型发布 阶跃星辰上线智能路由及API限免图像编辑模型 ↗ #3 蚂蚁集团开源 Ling-2.6-flash 模型，总参数 104B ↗ #4 英伟达发布 Nemotron 3 Nano Omni 开源多模态模型 ↗ #5 商汤科技开源 SenseNova U1 原生多模态模型 ↗ #6 Poolside 发布 Laguna 系列模型，XS.2 开源权重 ↗ #7 研究团队开源 130 亿参数复古模型，知识截止 1930 年 ↗ #8 开发生…",
+      "contentSnippet": "AI 早报 2026-04-29 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Claude 推出创意软件连接器，支持 Blender 和 Adobe 系列等多种工具 ↗ #1 DeepSeek 延长 V4-Pro 模型 2.5 折优惠至 5 月 31 日 ↗ #2 模型发布 阶跃星辰上线智能路由及API限免图像编辑模型 ↗ #3 蚂蚁集团开源 Ling-2.6-flash 模型，总参数 104B ↗ #4 英伟达发布 Nemotron 3 Nano Omni 开源多模态模型 ↗ #5 商汤科技开源 SenseNova U1 原生多模态模型 ↗ #6 Poolside 发布 Laguna 系列模型，XS.2 开源权重 ↗ #7 研究团队开源 130 亿参数复古模型，知识截止 1930 年 ↗ #8 开发生…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-28",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-73/",
+      "pubDate": "Tue, 28 Apr 2026 01:27:35 +0000",
+      "isoDate": "2026-04-28T01:27:35.000Z",
+      "content": "AI 早报 2026-04-28 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 微软停付 OpenAI 分成，Azure 独占终结 ↗ #1 国家发改委禁止外资收购Manus项目并撤销交易 #2 GitHub 宣布 Copilot 六月切换用量计费，订阅月费保持不变 ↗ #3 智谱延长 GLM 系列非高峰期抵扣福利至 6 月 30 日 ↗ #4 模型发布 小米正式开源 MiMo-V2.5 系列模型，推出免费Token激励计划 ↗ #5 阿里快乐马 HappyHorse 1.0 上线百炼 ↗ #6 Meta 发布 Sapiens2 开源人类视觉基础模型 #7 开发生态 TRAE SOLO 语音上线，支持命令 ↗ #8 Cognition 发布 Devin for Terminal ↗ #9 Hermes 默…",
+      "contentSnippet": "AI 早报 2026-04-28 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 微软停付 OpenAI 分成，Azure 独占终结 ↗ #1 国家发改委禁止外资收购Manus项目并撤销交易 #2 GitHub 宣布 Copilot 六月切换用量计费，订阅月费保持不变 ↗ #3 智谱延长 GLM 系列非高峰期抵扣福利至 6 月 30 日 ↗ #4 模型发布 小米正式开源 MiMo-V2.5 系列模型，推出免费Token激励计划 ↗ #5 阿里快乐马 HappyHorse 1.0 上线百炼 ↗ #6 Meta 发布 Sapiens2 开源人类视觉基础模型 #7 开发生态 TRAE SOLO 语音上线，支持命令 ↗ #8 Cognition 发布 Devin for Terminal ↗ #9 Hermes 默…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-27",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-72/",
+      "pubDate": "Mon, 27 Apr 2026 00:54:10 +0000",
+      "isoDate": "2026-04-27T00:54:10.000Z",
+      "content": "AI 早报 2026-04-27 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 调整 API 计费，输入缓存命中价降至首发价十分之一 ↗ #1 开发生态 Qoder 开启限时优惠 Ultimate 档位模型计费倍率降至 0.8x ↗ #2 前瞻与传闻 AWS 将推出 Claude Platform on AWS 服务整合原生体验 ↗ #3 DeepSeek 调整 API 计费，输入缓存命中价降至首发价十分之一 #1 DeepSeek官方宣布，即日起将全系列模型API服务的输入缓存命中价格统一降至首发价格的十分之一，永久生效。 同时，目前V4-Pro模型的输入缓存命中价在降价的基础上，叠加了此前公布的限时2.5折优惠。 DeepSeek 官方宣布，即日起对其全系列 API 服务的计费规则进…",
+      "contentSnippet": "AI 早报 2026-04-27 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 调整 API 计费，输入缓存命中价降至首发价十分之一 ↗ #1 开发生态 Qoder 开启限时优惠 Ultimate 档位模型计费倍率降至 0.8x ↗ #2 前瞻与传闻 AWS 将推出 Claude Platform on AWS 服务整合原生体验 ↗ #3 DeepSeek 调整 API 计费，输入缓存命中价降至首发价十分之一 #1 DeepSeek官方宣布，即日起将全系列模型API服务的输入缓存命中价格统一降至首发价格的十分之一，永久生效。 同时，目前V4-Pro模型的输入缓存命中价在降价的基础上，叠加了此前公布的限时2.5折优惠。 DeepSeek 官方宣布，即日起对其全系列 API 服务的计费规则进…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-26",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-71/",
+      "pubDate": "Sun, 26 Apr 2026 00:47:52 +0000",
+      "isoDate": "2026-04-26T00:47:52.000Z",
+      "content": "AI 早报 2026-04-26 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 限时下调 V4-Pro 模型 API 价格，更新开发工具版本要求 ↗ #1 DeepSeek 员工发布 DeepSeek-V4 思维链角色扮演模式指令 ↗ #2 模型发布 通义千问发布 Qwen-Image-2.0-Pro ↗ #3 美团开放 LongCat-2.0-Preview 邀请测试 ↗ #4 开发生态 Cursor 发布 3.2 版，引入/multitask 指令和异步 subagent 等功能 ↗ #5 OpenClaw 发布更新，优化语音与浏览器自动化功能 ↗ #6 产品应用 百度网盘推出 AI Agent 技能，支持自然语言操作 ↗ #7 Grok Imagine 升级图生视频功能，改善唇形同…",
+      "contentSnippet": "AI 早报 2026-04-26 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 限时下调 V4-Pro 模型 API 价格，更新开发工具版本要求 ↗ #1 DeepSeek 员工发布 DeepSeek-V4 思维链角色扮演模式指令 ↗ #2 模型发布 通义千问发布 Qwen-Image-2.0-Pro ↗ #3 美团开放 LongCat-2.0-Preview 邀请测试 ↗ #4 开发生态 Cursor 发布 3.2 版，引入/multitask 指令和异步 subagent 等功能 ↗ #5 OpenClaw 发布更新，优化语音与浏览器自动化功能 ↗ #6 产品应用 百度网盘推出 AI Agent 技能，支持自然语言操作 ↗ #7 Grok Imagine 升级图生视频功能，改善唇形同…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-25",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-70/",
+      "pubDate": "Sat, 25 Apr 2026 01:31:18 +0000",
+      "isoDate": "2026-04-25T01:31:18.000Z",
+      "content": "AI 早报 2026-04-25 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 发布 DeepSeek-V4 系列模型 ↗ #1 模型发布 OpenAI 已在 API 中上线 GPT-5.5 和 GPT-5.5 Pro ↗ #2 阶跃星辰发布 StepAudio 2.5 ASR 语音识别模型 ↗ #3 开发生态 Claude Code 更新 Web 端和移动端界面，新增跨平台无缝切换功能 ↗ #4 Hermes Agent 发布 v0.11.0，支持多个新模型与 QQBot ↗ #5 OpenClaw 发布新版支持 GPT-5.5 模型并强化安全防护 ↗ #6 产品应用 NotebookLM 推出来源自动分类 ↗ #7 技术与洞察 Anthropic 发布名为 Project Deal…",
+      "contentSnippet": "AI 早报 2026-04-25 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 发布 DeepSeek-V4 系列模型 ↗ #1 模型发布 OpenAI 已在 API 中上线 GPT-5.5 和 GPT-5.5 Pro ↗ #2 阶跃星辰发布 StepAudio 2.5 ASR 语音识别模型 ↗ #3 开发生态 Claude Code 更新 Web 端和移动端界面，新增跨平台无缝切换功能 ↗ #4 Hermes Agent 发布 v0.11.0，支持多个新模型与 QQBot ↗ #5 OpenClaw 发布新版支持 GPT-5.5 模型并强化安全防护 ↗ #6 产品应用 NotebookLM 推出来源自动分类 ↗ #7 技术与洞察 Anthropic 发布名为 Project Deal…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-24",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-69/",
+      "pubDate": "Fri, 24 Apr 2026 01:17:47 +0000",
+      "isoDate": "2026-04-24T01:17:47.000Z",
+      "content": "AI 早报 2026-04-24 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布 GPT-5.5 和 GPT-5.5 Pro 模型 ↗ #1 Anthropic 承认 Claude Code 质量下降并重置用户额度 ↗ #2 腾讯混元发布并开源 Hy3 preview 模型 ↗ #3 模型发布 蚂蚁百灵发布 Ling-2.6-1T 模型，提供试用并计划开源 ↗ #4 蚂蚁集团开源 LLaDA2.0-Uni 统一多模态模型 ↗ #5 小米 MiMo 发布语音模型系列，8B 参数 ASR 开源 ↗ #6 xAI 发布语音模型 grok-voice-think-fast-1.0 ↗ #7 字节跳动发布 Seed3D 2.0，几何纹理生成达 SOTA 表现 ↗ #8 开发生态 Claude 宣布…",
+      "contentSnippet": "AI 早报 2026-04-24 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布 GPT-5.5 和 GPT-5.5 Pro 模型 ↗ #1 Anthropic 承认 Claude Code 质量下降并重置用户额度 ↗ #2 腾讯混元发布并开源 Hy3 preview 模型 ↗ #3 模型发布 蚂蚁百灵发布 Ling-2.6-1T 模型，提供试用并计划开源 ↗ #4 蚂蚁集团开源 LLaDA2.0-Uni 统一多模态模型 ↗ #5 小米 MiMo 发布语音模型系列，8B 参数 ASR 开源 ↗ #6 xAI 发布语音模型 grok-voice-think-fast-1.0 ↗ #7 字节跳动发布 Seed3D 2.0，几何纹理生成达 SOTA 表现 ↗ #8 开发生态 Claude 宣布…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-23",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-68/",
+      "pubDate": "Thu, 23 Apr 2026 01:51:05 +0000",
+      "isoDate": "2026-04-23T01:51:05.000Z",
+      "content": "AI 早报 2026-04-23 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 小米发布 MiMo-V2.5 系列四款模型，两款模型将开源 ↗ #1 GLM 调整老套餐计划，月底强制终止续订并送两月权益 ↗ #2 模型发布 Qwen 团队开源 Qwen3.6-27B 模型 ↗ #3 OpenAI 发布开源隐私过滤模型，支持本地检测脱敏 ↗ #4 开发生态 Kimi 致歉 K2.6 上线波动并重置用户额度 #5 小米 MiMo 升级 Token 计划，调整计费及订阅模式 #6 Claude 开放 ultrareview 功能，订阅用户享三次免费审查 ↗ #7 Zed 推出 Parallel Agents，支持多 Agent 并行运行 ↗ #8 Google 开源 DESIGN.md 规范 ↗ #9 火山方舟…",
+      "contentSnippet": "AI 早报 2026-04-23 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 小米发布 MiMo-V2.5 系列四款模型，两款模型将开源 ↗ #1 GLM 调整老套餐计划，月底强制终止续订并送两月权益 ↗ #2 模型发布 Qwen 团队开源 Qwen3.6-27B 模型 ↗ #3 OpenAI 发布开源隐私过滤模型，支持本地检测脱敏 ↗ #4 开发生态 Kimi 致歉 K2.6 上线波动并重置用户额度 #5 小米 MiMo 升级 Token 计划，调整计费及订阅模式 #6 Claude 开放 ultrareview 功能，订阅用户享三次免费审查 ↗ #7 Zed 推出 Parallel Agents，支持多 Agent 并行运行 ↗ #8 Google 开源 DESIGN.md 规范 ↗ #9 火山方舟…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-22",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-67/",
+      "pubDate": "Wed, 22 Apr 2026 01:25:47 +0000",
+      "isoDate": "2026-04-22T01:25:47.000Z",
+      "content": "AI 早报 2026-04-22 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布图像生成模型 gpt-image-2，支持思考模式及多语言文本渲染 ↗ #1 SpaceX 与 Cursor 宣布合作，获六百亿美元收购权 ↗ #2 Anthropic 调整 Claude Code 订阅档位引社区争议 #3 模型发布 Gemini API 上线 Gemini Deep Research 两个新版本 ↗ #4 蚂蚁集团发布 Ling-2.6-flash 模型，前身为 Elephant Alpha ↗ #5 腾讯开源 MegaStyle 框架，开源 1.4M 风格数据集 ↗ #6 开发生态 OpenAI Codex 周活破 400 万，重置速率限制 ↗ #7 OpenAI 发布 Euphony…",
+      "contentSnippet": "AI 早报 2026-04-22 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布图像生成模型 gpt-image-2，支持思考模式及多语言文本渲染 ↗ #1 SpaceX 与 Cursor 宣布合作，获六百亿美元收购权 ↗ #2 Anthropic 调整 Claude Code 订阅档位引社区争议 #3 模型发布 Gemini API 上线 Gemini Deep Research 两个新版本 ↗ #4 蚂蚁集团发布 Ling-2.6-flash 模型，前身为 Elephant Alpha ↗ #5 腾讯开源 MegaStyle 框架，开源 1.4M 风格数据集 ↗ #6 开发生态 OpenAI Codex 周活破 400 万，重置速率限制 ↗ #7 OpenAI 发布 Euphony…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-21",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-66/",
+      "pubDate": "Tue, 21 Apr 2026 01:08:56 +0000",
+      "isoDate": "2026-04-21T01:08:56.000Z",
+      "content": "AI 早报 2026-04-21 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 月之暗面正式发布并开源了 Kimi K2.6 模型 ↗ #1 Google AI Studio 正式接入 Google AI 订阅 ↗ #2 OpenAI 为 Codex 上线 Chronicle，支持屏幕上下文记忆功能 ↗ #3 模型发布 Qwen 团队发布 Qwen3.6-Max-Preview 模型 ↗ #4 阿里发布 Fun-ASR1.5，支持 30 种语言及方言识别 ↗ #5 开发生态 GitHub 调整 Copilot 订阅计划 ↗ #6 ZCode 发布 1.0.0，推出自研ZCode Agent ↗ #7 阿里云百炼推出 Token Plan 团队版服务 ↗ #8 产品应用 谷歌将 Chrome AI 功能扩展…",
+      "contentSnippet": "AI 早报 2026-04-21 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 月之暗面正式发布并开源了 Kimi K2.6 模型 ↗ #1 Google AI Studio 正式接入 Google AI 订阅 ↗ #2 OpenAI 为 Codex 上线 Chronicle，支持屏幕上下文记忆功能 ↗ #3 模型发布 Qwen 团队发布 Qwen3.6-Max-Preview 模型 ↗ #4 阿里发布 Fun-ASR1.5，支持 30 种语言及方言识别 ↗ #5 开发生态 GitHub 调整 Copilot 订阅计划 ↗ #6 ZCode 发布 1.0.0，推出自研ZCode Agent ↗ #7 阿里云百炼推出 Token Plan 团队版服务 ↗ #8 产品应用 谷歌将 Chrome AI 功能扩展…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-20",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-65/",
+      "pubDate": "Mon, 20 Apr 2026 00:49:00 +0000",
+      "isoDate": "2026-04-20T00:49:00.000Z",
+      "content": "AI 早报 2026-04-20 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 谷歌推出 Android 开发工具集，优化 Agent 工作流 ↗ #1 browser-use 推出 Browser Harness 开源工具 ↗ #2 前瞻与传闻 传闻称 DeepSeek 本周发布 V4 模型，总参数或达 1600B ↗ #3 传闻称 ChatGPT 上正在测试 GPT-5.5 Pro ↗ #4 其他 Vercel 官方证实内部系统遭未授权访问，仅小部分客户受影响 ↗ #5 Cherry Studio 被曝无视设置仍上传遥测数据 ↗ #6 谷歌推出 Android 开发工具集，优化 Agent 工作流 #1 Google 发布了一套全新的 Android 开发工具集，包含 Android CLI、An…",
+      "contentSnippet": "AI 早报 2026-04-20 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 谷歌推出 Android 开发工具集，优化 Agent 工作流 ↗ #1 browser-use 推出 Browser Harness 开源工具 ↗ #2 前瞻与传闻 传闻称 DeepSeek 本周发布 V4 模型，总参数或达 1600B ↗ #3 传闻称 ChatGPT 上正在测试 GPT-5.5 Pro ↗ #4 其他 Vercel 官方证实内部系统遭未授权访问，仅小部分客户受影响 ↗ #5 Cherry Studio 被曝无视设置仍上传遥测数据 ↗ #6 谷歌推出 Android 开发工具集，优化 Agent 工作流 #1 Google 发布了一套全新的 Android 开发工具集，包含 Android CLI、An…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-19",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-64/",
+      "pubDate": "Sun, 19 Apr 2026 00:38:56 +0000",
+      "isoDate": "2026-04-19T00:38:56.000Z",
+      "content": "AI 早报 2026-04-19 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Cloudflare 推出检测工具，帮助评估网站 AI Agent 适配程度 ↗ #1 Cloudflare 推出 Agent Memory 托管服务 ↗ #2 xAI 推出 Grok 语音转写与合成两款音频 API ↗ #3 技术与洞察 月之暗面联合清华提出 Prefill-as-a-Service 架构 ↗ #4 行业动态 OpenAI 人事动荡，三名核心高管同日宣布离职 ↗ #5 前瞻与传闻 xAI 澄清 Grok 4.3 非 1T，1T 版 Grok 4.4 预计五月初发布 ↗ #6 Cloudflare 推出检测工具，帮助评估网站 AI Agent 适配程度 #1 Cloudflare官方宣布推出检测工具 isi…",
+      "contentSnippet": "AI 早报 2026-04-19 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Cloudflare 推出检测工具，帮助评估网站 AI Agent 适配程度 ↗ #1 Cloudflare 推出 Agent Memory 托管服务 ↗ #2 xAI 推出 Grok 语音转写与合成两款音频 API ↗ #3 技术与洞察 月之暗面联合清华提出 Prefill-as-a-Service 架构 ↗ #4 行业动态 OpenAI 人事动荡，三名核心高管同日宣布离职 ↗ #5 前瞻与传闻 xAI 澄清 Grok 4.3 非 1T，1T 版 Grok 4.4 预计五月初发布 ↗ #6 Cloudflare 推出检测工具，帮助评估网站 AI Agent 适配程度 #1 Cloudflare官方宣布推出检测工具 isi…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-18",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-63/",
+      "pubDate": "Sat, 18 Apr 2026 00:43:30 +0000",
+      "isoDate": "2026-04-18T00:43:30.000Z",
+      "content": "AI 早报 2026-04-18 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 推出 Claude Design 工具 ↗ #1 模型发布 xAI 上线 Grok 4.3 测试版，启用云计算机模式支持文件操作 ↗ #2 QuiverAI 发布 Arrow 1.1 SVG 生成模型 ↗ #3 开发生态 Cloudflare 宣布 Email Service 公测 支持 AI Agent 集成 ↗ #4 产品应用 Google 推出 Flow Music，基于 Lyria 3 Pro 模型的 AI 音乐工具 ↗ #5 Opera 推出 Browser Connector 功能，支持外部AI读取标签页 ↗ #6 前瞻与传闻 Google AI Studio 将接入 Google AI 订阅体…",
+      "contentSnippet": "AI 早报 2026-04-18 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 推出 Claude Design 工具 ↗ #1 模型发布 xAI 上线 Grok 4.3 测试版，启用云计算机模式支持文件操作 ↗ #2 QuiverAI 发布 Arrow 1.1 SVG 生成模型 ↗ #3 开发生态 Cloudflare 宣布 Email Service 公测 支持 AI Agent 集成 ↗ #4 产品应用 Google 推出 Flow Music，基于 Lyria 3 Pro 模型的 AI 音乐工具 ↗ #5 Opera 推出 Browser Connector 功能，支持外部AI读取标签页 ↗ #6 前瞻与传闻 Google AI Studio 将接入 Google AI 订阅体…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-17",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-62/",
+      "pubDate": "Fri, 17 Apr 2026 01:45:06 +0000",
+      "isoDate": "2026-04-17T01:45:06.000Z",
+      "content": "AI 早报 2026-04-17 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 发布 Claude Opus 4.7 模型 ↗ #1 OpenAI 发布 Codex 桌面端重大升级 ↗ #2 Qwen 开源 Qwen3.6-35B-A3B 模型 ↗ #3 模型发布 OpenAI 发布 GPT-Rosalind 生命科学专用推理模型 ↗ #4 阿里推出开放式世界模型 Happy Oyster 启动早期体验 ↗ #5 腾讯发布并开源混元世界模型 HY-World 2.0 ↗ #6 阶跃星辰正式发布 StepAudio 2.5 TTS 语音生成模型 ↗ #7 Google DeepMind 发布 TIPSv2 模型，入选 CVPR 2026 且开源 ↗ #8 开发生态 Claude Code…",
+      "contentSnippet": "AI 早报 2026-04-17 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 发布 Claude Opus 4.7 模型 ↗ #1 OpenAI 发布 Codex 桌面端重大升级 ↗ #2 Qwen 开源 Qwen3.6-35B-A3B 模型 ↗ #3 模型发布 OpenAI 发布 GPT-Rosalind 生命科学专用推理模型 ↗ #4 阿里推出开放式世界模型 Happy Oyster 启动早期体验 ↗ #5 腾讯发布并开源混元世界模型 HY-World 2.0 ↗ #6 阶跃星辰正式发布 StepAudio 2.5 TTS 语音生成模型 ↗ #7 Google DeepMind 发布 TIPSv2 模型，入选 CVPR 2026 且开源 ↗ #8 开发生态 Claude Code…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-16",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-61/",
+      "pubDate": "Thu, 16 Apr 2026 01:21:36 +0000",
+      "isoDate": "2026-04-16T01:21:36.000Z",
+      "content": "AI 早报 2026-04-16 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Google 发布 Gemini 3.1 Flash TTS 模型 ↗ #1 Google 发布 macOS 版 Gemini 原生桌面应用支持屏幕共享 ↗ #2 Anthropic 为 Claude 平台启用身份验证机制 ↗ #3 模型发布 NVIDIA 发布 Lyra 2.0，支持单图生成可探索 3D 世界 ↗ #4 World Labs 开源 Spark 2.0 支持网页端亿级 3D 场景渲染 ↗ #5 Nucleus AI 开源 Nucleus-Image，17B 参数激活 2B #6 开发生态 Claude Code 更新支持自主配置 Prompt Caching 的 TTL ↗ #7 Google 官方宣布为 Ge…",
+      "contentSnippet": "AI 早报 2026-04-16 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Google 发布 Gemini 3.1 Flash TTS 模型 ↗ #1 Google 发布 macOS 版 Gemini 原生桌面应用支持屏幕共享 ↗ #2 Anthropic 为 Claude 平台启用身份验证机制 ↗ #3 模型发布 NVIDIA 发布 Lyra 2.0，支持单图生成可探索 3D 世界 ↗ #4 World Labs 开源 Spark 2.0 支持网页端亿级 3D 场景渲染 ↗ #5 Nucleus AI 开源 Nucleus-Image，17B 参数激活 2B #6 开发生态 Claude Code 更新支持自主配置 Prompt Caching 的 TTL ↗ #7 Google 官方宣布为 Ge…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-15",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-60/",
+      "pubDate": "Wed, 15 Apr 2026 01:18:17 +0000",
+      "isoDate": "2026-04-15T01:18:17.000Z",
+      "content": "AI 早报 2026-04-15 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 OpenAI 扩大网络安全信任访问计划，发布 GPT-5.4-Cyber 模型 ↗ #1 Google DeepMind 发布 Gemini Robotics-ER 1.6 机器人模型 ↗ #2 百度开源 ERNIE-Image 模型，8B 参数支持中文长文本渲染 ↗ #3 微软发布 MAI-Image-2-Efficient 模型 ↗ #4 Midjourney 发布 V8.1，生成速度提升 3 倍成本降低 3 倍 ↗ #5 NVIDIA 联合发布 Audio Flamingo Next，支持 128K 音频上下文 ↗ #6 NVIDIA 发布 Ising 开放模型 开源助力量子计算纠错 ↗ #7 Seedance 2.…",
+      "contentSnippet": "AI 早报 2026-04-15 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 OpenAI 扩大网络安全信任访问计划，发布 GPT-5.4-Cyber 模型 ↗ #1 Google DeepMind 发布 Gemini Robotics-ER 1.6 机器人模型 ↗ #2 百度开源 ERNIE-Image 模型，8B 参数支持中文长文本渲染 ↗ #3 微软发布 MAI-Image-2-Efficient 模型 ↗ #4 Midjourney 发布 V8.1，生成速度提升 3 倍成本降低 3 倍 ↗ #5 NVIDIA 联合发布 Audio Flamingo Next，支持 128K 音频上下文 ↗ #6 NVIDIA 发布 Ising 开放模型 开源助力量子计算纠错 ↗ #7 Seedance 2.…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-14",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-59/",
+      "pubDate": "Tue, 14 Apr 2026 01:15:56 +0000",
+      "isoDate": "2026-04-14T01:15:56.000Z",
+      "content": "AI 早报 2026-04-14 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 月之暗面上线 Kimi k2.6-code-preview 模型 ↗ #1 OpenRouter 上线新 stealth 模型 Elephant Alpha ↗ #2 开发生态 Qwen 下调 OAuth 免费配额至百次服务即将停服 ↗ #3 OpenClaw 发布 2026.4.12 版，新增本地模型与安全修复 ↗ #4 Google AI Studio 引入 Tab Tab Tab 引擎优化提示词补全体验 ↗ #5 技术与洞察 英国 AISI 报告称 Claude Mythos 可完成 32 步网络攻击 ↗ #6 行业动态 Cloudflare 联合 OpenAI 将 GPT-5.4 及 Codex 引入 Agent…",
+      "contentSnippet": "AI 早报 2026-04-14 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 月之暗面上线 Kimi k2.6-code-preview 模型 ↗ #1 OpenRouter 上线新 stealth 模型 Elephant Alpha ↗ #2 开发生态 Qwen 下调 OAuth 免费配额至百次服务即将停服 ↗ #3 OpenClaw 发布 2026.4.12 版，新增本地模型与安全修复 ↗ #4 Google AI Studio 引入 Tab Tab Tab 引擎优化提示词补全体验 ↗ #5 技术与洞察 英国 AISI 报告称 Claude Mythos 可完成 32 步网络攻击 ↗ #6 行业动态 Cloudflare 联合 OpenAI 将 GPT-5.4 及 Codex 引入 Agent…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-13",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-58/",
+      "pubDate": "Mon, 13 Apr 2026 00:53:09 +0000",
+      "isoDate": "2026-04-13T00:53:09.000Z",
+      "content": "AI 早报 2026-04-13 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 MiniMax 开源 M2.7 模型，明确非商业用途限制 ↗ #1 MOSI.AI 与 OpenMOSS 开源 MOSS-TTS-Nano 语音模型 ↗ #2 开发生态 微信支付开源 wechatpay-skills，支持 AI IDE 接入辅助开发 ↗ #3 技术与洞察 伯克利团队揭露八大 AI 评测基准存在刷分漏洞 ↗ #4 行业动态 日本经产省追加 6315 亿日元助 Rapidus 推进 2 纳米 ↗ #5 MiniMax 开源 M2.7 模型，明确非商业用途限制 #1 MiniMax 已正式开源其 M2.7 模型，该模型在多项基准测试中达到当前最优水平，采用 Agentic-first 设计，能够高效完成复杂的生…",
+      "contentSnippet": "AI 早报 2026-04-13 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 MiniMax 开源 M2.7 模型，明确非商业用途限制 ↗ #1 MOSI.AI 与 OpenMOSS 开源 MOSS-TTS-Nano 语音模型 ↗ #2 开发生态 微信支付开源 wechatpay-skills，支持 AI IDE 接入辅助开发 ↗ #3 技术与洞察 伯克利团队揭露八大 AI 评测基准存在刷分漏洞 ↗ #4 行业动态 日本经产省追加 6315 亿日元助 Rapidus 推进 2 纳米 ↗ #5 MiniMax 开源 M2.7 模型，明确非商业用途限制 #1 MiniMax 已正式开源其 M2.7 模型，该模型在多项基准测试中达到当前最优水平，采用 Agentic-first 设计，能够高效完成复杂的生…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-12",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-57/",
+      "pubDate": "Sun, 12 Apr 2026 00:37:56 +0000",
+      "isoDate": "2026-04-12T00:37:56.000Z",
+      "content": "AI 早报 2026-04-12 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 澄清 ChatGPT Pro 额度规则，承认定价页面表述有误将更新 ↗ #1 阿里云百炼停售并清退 Coding Plan Lite 套餐 ↗ #2 模型发布 MiniMax 今日正式开源 MiniMax-M2.7 模型 ↗ #3 开发生态 GitHub Copilot 宣布将引入全新速率限制 ↗ #4 智谱国际版 GLM Coding Plan 大幅涨价，引发热议 #5 产品应用 OpenClaw 发布 2026.4.10 版，优化记忆功能 ↗ #6 Nous Research 宣布 Hermes Agent 原生支持微信 #7 OpenAI 响应 Axios 事件，撤销证书敦促四款应用升级 ↗ #8 行业动态…",
+      "contentSnippet": "AI 早报 2026-04-12 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 澄清 ChatGPT Pro 额度规则，承认定价页面表述有误将更新 ↗ #1 阿里云百炼停售并清退 Coding Plan Lite 套餐 ↗ #2 模型发布 MiniMax 今日正式开源 MiniMax-M2.7 模型 ↗ #3 开发生态 GitHub Copilot 宣布将引入全新速率限制 ↗ #4 智谱国际版 GLM Coding Plan 大幅涨价，引发热议 #5 产品应用 OpenClaw 发布 2026.4.10 版，优化记忆功能 ↗ #6 Nous Research 宣布 Hermes Agent 原生支持微信 #7 OpenAI 响应 Axios 事件，撤销证书敦促四款应用升级 ↗ #8 行业动态…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-11",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-56/",
+      "pubDate": "Sat, 11 Apr 2026 01:16:42 +0000",
+      "isoDate": "2026-04-11T01:16:42.000Z",
+      "content": "AI 早报 2026-04-11 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 智谱就 GLM Coding Plan 体验问题致歉，开启专项退款通道 ↗ #1 模型发布 MiniMax 发布 Music 2.6 音乐模型，新增 Cover 功能 ↗ #2 Anuttacon 发布 LPM 1.0 模型，仅供学术交流 ↗ #3 开发生态 Claude Code 推出 ultraplan 支持云端规划本地执行 ↗ #4 Qwen Code 更新，支持远程控制及定时任务 ↗ #5 产品应用 Anthropic 推出 Claude for Word 插件测试版 ↗ #6 谷歌搜索 AI Mode 餐厅预订功能扩展至全球多地 ↗ #7 Qwen Chat 更名为 Qwen Studio ↗ #8 行业动态 Cor…",
+      "contentSnippet": "AI 早报 2026-04-11 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 智谱就 GLM Coding Plan 体验问题致歉，开启专项退款通道 ↗ #1 模型发布 MiniMax 发布 Music 2.6 音乐模型，新增 Cover 功能 ↗ #2 Anuttacon 发布 LPM 1.0 模型，仅供学术交流 ↗ #3 开发生态 Claude Code 推出 ultraplan 支持云端规划本地执行 ↗ #4 Qwen Code 更新，支持远程控制及定时任务 ↗ #5 产品应用 Anthropic 推出 Claude for Word 插件测试版 ↗ #6 谷歌搜索 AI Mode 餐厅预订功能扩展至全球多地 ↗ #7 Qwen Chat 更名为 Qwen Studio ↗ #8 行业动态 Cor…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-10",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-55/",
+      "pubDate": "Fri, 10 Apr 2026 01:21:53 +0000",
+      "isoDate": "2026-04-10T01:21:53.000Z",
+      "content": "AI 早报 2026-04-10 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 推出 ChatGPT 100 美元 Pro 档 ↗ #1 模型发布 字节跳动发布原生全双工语音模型 Seeduplex，豆包可用 ↗ #2 Overworld 发布实时扩散世界模型 Waypoint-1.5 ↗ #3 LG AI Research 发布 EXAONE 4.5 开源视觉语言模型 ↗ #4 阿里AIDC-AI开源两款 Marco-MoE 稀疏大模型 ↗ #5 开发生态 Claude API 上线 Advisor 策略，平衡智能成本性能提升 ↗ #6 Claude Code 升级配置向导，引入监控工具 ↗ #7 Codex 官方上线 Build macOS Apps 插件 ↗ #8 Codex 宣布将再…",
+      "contentSnippet": "AI 早报 2026-04-10 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 推出 ChatGPT 100 美元 Pro 档 ↗ #1 模型发布 字节跳动发布原生全双工语音模型 Seeduplex，豆包可用 ↗ #2 Overworld 发布实时扩散世界模型 Waypoint-1.5 ↗ #3 LG AI Research 发布 EXAONE 4.5 开源视觉语言模型 ↗ #4 阿里AIDC-AI开源两款 Marco-MoE 稀疏大模型 ↗ #5 开发生态 Claude API 上线 Advisor 策略，平衡智能成本性能提升 ↗ #6 Claude Code 升级配置向导，引入监控工具 ↗ #7 Codex 官方上线 Build macOS Apps 插件 ↗ #8 Codex 宣布将再…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-09",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-54/",
+      "pubDate": "Thu, 09 Apr 2026 01:31:52 +0000",
+      "isoDate": "2026-04-09T01:31:52.000Z",
+      "content": "AI 早报 2026-04-09 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Meta 发布 Muse Spark 模型，比肩顶级竞品 ↗ #1 Anthropic 发布 Claude Managed Agents 公测版 ↗ #2 Google 为 Gemini 引入 Notebooks 功能并与 NotebookLM 同步 ↗ #3 模型发布 爱诗科技上线 PixVerse C1 视频生成模型 ↗ #4 Black Forest Labs 发布 FLUX.2 Small Decoder ↗ #5 Liquid AI 发布 LFM2.5-VL-450M 边缘视觉语言模型 ↗ #6 开发生态 OpenClaw 连发 v2026.4.7 和 v2026.4.8 两版 ↗ #7 Google Colab 新…",
+      "contentSnippet": "AI 早报 2026-04-09 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Meta 发布 Muse Spark 模型，比肩顶级竞品 ↗ #1 Anthropic 发布 Claude Managed Agents 公测版 ↗ #2 Google 为 Gemini 引入 Notebooks 功能并与 NotebookLM 同步 ↗ #3 模型发布 爱诗科技上线 PixVerse C1 视频生成模型 ↗ #4 Black Forest Labs 发布 FLUX.2 Small Decoder ↗ #5 Liquid AI 发布 LFM2.5-VL-450M 边缘视觉语言模型 ↗ #6 开发生态 OpenClaw 连发 v2026.4.7 和 v2026.4.8 两版 ↗ #7 Google Colab 新…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-08",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-53/",
+      "pubDate": "Wed, 08 Apr 2026 01:33:41 +0000",
+      "isoDate": "2026-04-08T01:33:41.000Z",
+      "content": "AI 早报 2026-04-08 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 发布 Claude Mythos 模型，因安全风险未面向公众 ↗ #1 Anthropic 启动 Project Glasswing 网络安全倡议 ↗ #2 智谱正式发布 GLM-5.1，7540 亿参数 MIT 开源 ↗ #3 DeepSeek 网页端引入“快速模式”和“专家模式” #4 模型发布 Cognition 发布 SWE-1.6 正式版，限时免费 ↗ #5 Ai2 发布开源单目 3D 检测模型 WildDet3D ↗ #6 ACE Studio 联合 StepFun 发布 ACE-Step 1.5 XL 开源音乐模型 ↗ #7 微软开源 Harrier 文本模型，MTEB-v2 多语言榜单位列第…",
+      "contentSnippet": "AI 早报 2026-04-08 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 发布 Claude Mythos 模型，因安全风险未面向公众 ↗ #1 Anthropic 启动 Project Glasswing 网络安全倡议 ↗ #2 智谱正式发布 GLM-5.1，7540 亿参数 MIT 开源 ↗ #3 DeepSeek 网页端引入“快速模式”和“专家模式” #4 模型发布 Cognition 发布 SWE-1.6 正式版，限时免费 ↗ #5 Ai2 发布开源单目 3D 检测模型 WildDet3D ↗ #6 ACE Studio 联合 StepFun 发布 ACE-Step 1.5 XL 开源音乐模型 ↗ #7 微软开源 Harrier 文本模型，MTEB-v2 多语言榜单位列第…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-07",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-52/",
+      "pubDate": "Tue, 07 Apr 2026 00:35:58 +0000",
+      "isoDate": "2026-04-07T00:35:58.000Z",
+      "content": "AI 早报 2026-04-07 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 年化收入已超三百亿美元 达成数吉瓦 TPU 协议 ↗ #1 OpenAI 发布政策蓝图提议机器人税与四天工作制 ↗ #2 模型发布 OpenBMB 发布 VoxCPM2 语音模型，20 亿参数开源 ↗ #3 开发生态 Claude Code 被发现禁止分析自身源代码 ↗ #4 产品应用 OpenClaw 发布 v2026.4.5，引入梦境记忆功能 ↗ #5 行业动态 OpenAI 启动 Safety Fellowship 计划，支持外部安全研究 ↗ #6 前瞻与传闻 MiniMax 确认 M2.7 本周末开源 ↗ #7 消息称 Meta 将正式推出MSL成立以来的首款AI模型 ↗ #8 Anthropic…",
+      "contentSnippet": "AI 早报 2026-04-07 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 年化收入已超三百亿美元 达成数吉瓦 TPU 协议 ↗ #1 OpenAI 发布政策蓝图提议机器人税与四天工作制 ↗ #2 模型发布 OpenBMB 发布 VoxCPM2 语音模型，20 亿参数开源 ↗ #3 开发生态 Claude Code 被发现禁止分析自身源代码 ↗ #4 产品应用 OpenClaw 发布 v2026.4.5，引入梦境记忆功能 ↗ #5 行业动态 OpenAI 启动 Safety Fellowship 计划，支持外部安全研究 ↗ #6 前瞻与传闻 MiniMax 确认 M2.7 本周末开源 ↗ #7 消息称 Meta 将正式推出MSL成立以来的首款AI模型 ↗ #8 Anthropic…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-06",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-51/",
+      "pubDate": "Mon, 06 Apr 2026 00:28:49 +0000",
+      "isoDate": "2026-04-06T00:28:49.000Z",
+      "content": "AI 早报 2026-04-06 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Anthropic 加大力度限制 OpenClaw 等第三方调用 ↗ #1 苹果批准第三方驱动支持 eGPU 在 Mac 原生运行 AI ↗ #2 技术与洞察 Anthropic 称 Opus 4.6 发现 Linux 内核 23 年旧漏洞 ↗ #3 前瞻与传闻 消息称谷歌正为 Gemini 应用开发 Your day 功能 ↗ #4 Anthropic 加大力度限制 OpenClaw 等第三方调用 #1 Anthropic 被发现加大了对 OpenClaw 等第三方客户端的限制力度。当用户使用 Claude Code 的非交互模式时，如果附加的系统提示词中包含 OpenClaw 等特征词，就会被系统拦截并报错。 近日，科…",
+      "contentSnippet": "AI 早报 2026-04-06 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Anthropic 加大力度限制 OpenClaw 等第三方调用 ↗ #1 苹果批准第三方驱动支持 eGPU 在 Mac 原生运行 AI ↗ #2 技术与洞察 Anthropic 称 Opus 4.6 发现 Linux 内核 23 年旧漏洞 ↗ #3 前瞻与传闻 消息称谷歌正为 Gemini 应用开发 Your day 功能 ↗ #4 Anthropic 加大力度限制 OpenClaw 等第三方调用 #1 Anthropic 被发现加大了对 OpenClaw 等第三方客户端的限制力度。当用户使用 Claude Code 的非交互模式时，如果附加的系统提示词中包含 OpenClaw 等特征词，就会被系统拦截并报错。 近日，科…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-05",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-50/",
+      "pubDate": "Sun, 05 Apr 2026 00:15:11 +0000",
+      "isoDate": "2026-04-05T00:15:11.000Z",
+      "content": "AI 早报 2026-04-05 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Kimi 推出 Kimi Code 抢先体验计划，已开放申请 ↗ #1 产品应用 NotebookLM 升级测验闪卡功能，新增总结与建议工具 ↗ #2 前瞻与传闻 GPT-Image-2 模型在 ChatGPT 灰度开放 #3 Kimi 推出 Kimi Code 抢先体验计划，已开放申请 #1 Kimi 现已推出 Kimi Code 抢先体验计划，付费用户可登录控制台提交申请，通过后即可获得更多额度并抢先体验最新 Code 模型。 根据 Kimi 官方消息，Kimi 现已推出 Kimi Code 抢先体验计划。付费用户目前可通过该产品的控制台提交申请，加入该计划后，参与者不仅可以获得更多的使用额度，还能提前体验其最新的 C…",
+      "contentSnippet": "AI 早报 2026-04-05 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Kimi 推出 Kimi Code 抢先体验计划，已开放申请 ↗ #1 产品应用 NotebookLM 升级测验闪卡功能，新增总结与建议工具 ↗ #2 前瞻与传闻 GPT-Image-2 模型在 ChatGPT 灰度开放 #3 Kimi 推出 Kimi Code 抢先体验计划，已开放申请 #1 Kimi 现已推出 Kimi Code 抢先体验计划，付费用户可登录控制台提交申请，通过后即可获得更多额度并抢先体验最新 Code 模型。 根据 Kimi 官方消息，Kimi 现已推出 Kimi Code 抢先体验计划。付费用户目前可通过该产品的控制台提交申请，加入该计划后，参与者不仅可以获得更多的使用额度，还能提前体验其最新的 C…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-04-04",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-49/",
+      "pubDate": "Sat, 04 Apr 2026 00:58:09 +0000",
+      "isoDate": "2026-04-04T00:58:09.000Z",
+      "content": "AI 早报 2026-04-04 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 阿里通义实验室发布 Wan2.7-Video 视频生成模型 ↗ #1 京东开源发布 JoyAI-Image 图像编辑模型权重 ↗ #2 研究团队开源 OmniVoice 覆盖 600 种语言零样本 TTS 模型 ↗ #3 ElevenLabs Scribe v2 升级，新增实体脱敏及关键词提示扩容 ↗ #4 Willow 发布 Atlas 1 语音转文本模型 ↗ #5 Netflix 开源首个 AI 模型 VOID ↗ #6 开发生态 OpenAI 调整 Codex 计费规则改为按 token 消耗量计价 ↗ #7 Anthropic 明确禁止第三方工具使用订阅，并提供额度补偿 ↗ #8 Claude Code 更新减少…",
+      "contentSnippet": "AI 早报 2026-04-04 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 阿里通义实验室发布 Wan2.7-Video 视频生成模型 ↗ #1 京东开源发布 JoyAI-Image 图像编辑模型权重 ↗ #2 研究团队开源 OmniVoice 覆盖 600 种语言零样本 TTS 模型 ↗ #3 ElevenLabs Scribe v2 升级，新增实体脱敏及关键词提示扩容 ↗ #4 Willow 发布 Atlas 1 语音转文本模型 ↗ #5 Netflix 开源首个 AI 模型 VOID ↗ #6 开发生态 OpenAI 调整 Codex 计费规则改为按 token 消耗量计价 ↗ #7 Anthropic 明确禁止第三方工具使用订阅，并提供额度补偿 ↗ #8 Claude Code 更新减少…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-05-03T19:07:28.631Z"
+}

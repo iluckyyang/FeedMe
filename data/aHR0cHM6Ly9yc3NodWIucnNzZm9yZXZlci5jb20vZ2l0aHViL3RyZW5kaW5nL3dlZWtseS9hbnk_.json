@@ -1,0 +1,129 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0a1a8f1fe04e1a72a199f8e492a1e8bb0059962628858162b03088f0c8bb0ec0/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .claude directory.<br><br>Language: Shell<br>Stars: 56700<br>Forks: 4823",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .claude directory.\nLanguage: Shell\nStars: 56700\nForks: 4823",
+      "creator": "mattpocock",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "TauricResearch/TradingAgents",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1\" referrerpolicy=\"no-referrer\"><br>TradingAgents: Multi-Agents LLM Financial Trading Framework<br><br>Language: Python<br>Stars: 64872<br>Forks: 12546",
+      "contentSnippet": "TradingAgents: Multi-Agents LLM Financial Trading Framework\nLanguage: Python\nStars: 64872\nForks: 12546",
+      "creator": "TauricResearch",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ComposioHQ/awesome-codex-skills",
+      "link": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1c758cc083122d86f04b558056960630ca748fbcfc7514e2497652ddba9309ff/ComposioHQ/awesome-codex-skills\" referrerpolicy=\"no-referrer\"><br>A curated list of practical Codex skills for automating workflows across the Codex CLI and API.<br><br>Language: Python<br>Stars: 6099<br>Forks: 403",
+      "contentSnippet": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.\nLanguage: Python\nStars: 6099\nForks: 403",
+      "creator": "ComposioHQ",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Alishahryar1/free-claude-code",
+      "link": "https://github.com/Alishahryar1/free-claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/efe73abeb7081cde8623a3ad65db5dc1169823f8de1fd1550ac9dc3f689533a0/Alishahryar1/free-claude-code\" referrerpolicy=\"no-referrer\"><br>Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)<br><br>Language: Python<br>Stars: 20628<br>Forks: 2967",
+      "contentSnippet": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)\nLanguage: Python\nStars: 20628\nForks: 2967",
+      "creator": "Alishahryar1",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "refactoringhq/tolaria",
+      "link": "https://github.com/refactoringhq/tolaria",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/541e4e7090a6e4d424d497c3f7751c9b031c58aa03f7134275877755bcc9c881/refactoringhq/tolaria\" referrerpolicy=\"no-referrer\"><br>Desktop app to manage markdown knowledge bases<br><br>Language: TypeScript<br>Stars: 9155<br>Forks: 657",
+      "contentSnippet": "Desktop app to manage markdown knowledge bases\nLanguage: TypeScript\nStars: 9155\nForks: 657",
+      "creator": "refactoringhq",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "soxoj/maigret",
+      "link": "https://github.com/soxoj/maigret",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/275386910/d6d7e536-6597-40dc-a204-391431ce57db\" referrerpolicy=\"no-referrer\"><br>🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites<br><br>Language: Python<br>Stars: 23609<br>Forks: 1660",
+      "contentSnippet": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites\nLanguage: Python\nStars: 23609\nForks: 1660",
+      "creator": "soxoj",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Z4nzu/hackingtool",
+      "link": "https://github.com/Z4nzu/hackingtool",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/254832799/05316380-baf8-11ea-95d8-813b0e4100a3\" referrerpolicy=\"no-referrer\"><br>ALL IN ONE Hacking Tool For Hackers<br><br>Language: Python<br>Stars: 70810<br>Forks: 7985",
+      "contentSnippet": "ALL IN ONE Hacking Tool For Hackers\nLanguage: Python\nStars: 70810\nForks: 7985",
+      "creator": "Z4nzu",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "CJackHwang/ds2api",
+      "link": "https://github.com/CJackHwang/ds2api",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/206153336a00b122f35f62e561a15d656e83477d1e04c584671ac11cb2e75fed/CJackHwang/ds2api\" referrerpolicy=\"no-referrer\"><br>DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.<br><br>Language: Go<br>Stars: 3243<br>Forks: 860",
+      "contentSnippet": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.\nLanguage: Go\nStars: 3243\nForks: 860",
+      "creator": "CJackHwang",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ruvnet/ruflo",
+      "link": "https://github.com/ruvnet/ruflo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/995029641/095f6349-c2bf-4850-b1bf-87ebfa3091db\" referrerpolicy=\"no-referrer\"><br>🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration<br><br>Language: TypeScript<br>Stars: 38475<br>Forks: 4378",
+      "contentSnippet": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration\nLanguage: TypeScript\nStars: 38475\nForks: 4378",
+      "creator": "ruvnet",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "abhigyanpatwari/GitNexus",
+      "link": "https://github.com/abhigyanpatwari/GitNexus",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/535be18ab7d4f951b40a2fd18b5e350993d7a91ca56bde6a2c87e9f7d85cee4b/abhigyanpatwari/GitNexus\" referrerpolicy=\"no-referrer\"><br>GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration<br><br>Language: TypeScript<br>Stars: 35145<br>Forks: 3993",
+      "contentSnippet": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration\nLanguage: TypeScript\nStars: 35145\nForks: 3993",
+      "creator": "abhigyanpatwari",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "forrestchang/andrej-karpathy-skills",
+      "link": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/17d2888ec682fd263570db0c80ce02c12348abc343af93f84211ee076f4f1e1c/forrestchang/andrej-karpathy-skills\" referrerpolicy=\"no-referrer\"><br>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.<br><br>Language: Unknown<br>Stars: 108432<br>Forks: 10792",
+      "contentSnippet": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.\nLanguage: Unknown\nStars: 108432\nForks: 10792",
+      "creator": "forrestchang",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "AIDC-AI/Pixelle-Video",
+      "link": "https://github.com/AIDC-AI/Pixelle-Video",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d348849ddfd5cff05bbda9cf4e1f616589191a562a2b3cacc0e4a645305efffd/AIDC-AI/Pixelle-Video\" referrerpolicy=\"no-referrer\"><br>🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine<br><br>Language: Python<br>Stars: 9808<br>Forks: 1539",
+      "contentSnippet": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine\nLanguage: Python\nStars: 9808\nForks: 1539",
+      "creator": "AIDC-AI",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-05-03T19:07:37.229Z"
+}
