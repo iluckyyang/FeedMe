@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+      "link": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+      "pubDate": "Sun, 17 May 2026 21:45:30 +0000",
+      "isoDate": "2026-05-17T21:45:30.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base\">https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48173468\">https://news.ycombinator.com/item?id=48173468</a></p>\n<p>Points: 193</p>\n<p># Comments: 188</p>\n",
+      "contentSnippet": "Article URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base\nComments URL: https://news.ycombinator.com/item?id=48173468\nPoints: 193\n# Comments: 188",
+      "creator": "ChrisArchitect",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "GenCAD",
+      "link": "https://gencad.github.io/",
+      "pubDate": "Sun, 17 May 2026 21:40:35 +0000",
+      "isoDate": "2026-05-17T21:40:35.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://gencad.github.io/\">https://gencad.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48173429\">https://news.ycombinator.com/item?id=48173429</a></p>\n<p>Points: 305</p>\n<p># Comments: 74</p>\n",
+      "contentSnippet": "Article URL: https://gencad.github.io/\nComments URL: https://news.ycombinator.com/item?id=48173429\nPoints: 305\n# Comments: 74",
+      "creator": "dagenix",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Meta deletes popular 1M follower account after Kuwaiti request",
+      "link": "https://twitter.com/ryangrim/status/2055992439031185782",
+      "pubDate": "Sun, 17 May 2026 17:10:48 +0000",
+      "isoDate": "2026-05-17T17:10:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://twitter.com/ryangrim/status/2055992439031185782\">https://twitter.com/ryangrim/status/2055992439031185782</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48170810\">https://news.ycombinator.com/item?id=48170810</a></p>\n<p>Points: 195</p>\n<p># Comments: 138</p>\n",
+      "contentSnippet": "Article URL: https://twitter.com/ryangrim/status/2055992439031185782\nComments URL: https://news.ycombinator.com/item?id=48170810\nPoints: 195\n# Comments: 138",
+      "creator": "bhouston",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "At least 25 Flock cameras have been destroyed in five states since April 2025",
+      "link": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
+      "pubDate": "Sun, 17 May 2026 17:09:15 +0000",
+      "isoDate": "2026-05-17T17:09:15.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/\">https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48170798\">https://news.ycombinator.com/item?id=48170798</a></p>\n<p>Points: 426</p>\n<p># Comments: 304</p>\n",
+      "contentSnippet": "Article URL: https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/\nComments URL: https://news.ycombinator.com/item?id=48170798\nPoints: 426\n# Comments: 304",
+      "creator": "rolph",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "link": "https://github.com/MinishLab/semble",
+      "pubDate": "Sun, 17 May 2026 15:37:07 +0000",
+      "isoDate": "2026-05-17T15:37:07.000Z",
+      "content": "\n<p>Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can't find something directly, it falls back to grep, reading full files or launching subagents. This uses a lot of tokens, and often still misses the relevant code. There are existing tools for this, but they were either too slow to index on demand, needed API keys, or had poor retrieval quality.<p>Semble is our solution for this. It combines static Model2Vec embeddings (using our latest static model: potion-code-16M) with BM25, fused via RRF and reranked with code-aware signals. Everything runs on CPU since there's no transformers involved. On our benchmark of ~1250 query/document pairs across 63 repos and 19 languages, it uses 98% fewer tokens than grep+read and reaches 99% of the retrieval quality of a 137M-parameter code-trained transformer, while being ~200x faster.<p>Main features:<p>- Token-efficient: 98% fewer tokens than grep+read<p>- Fast: ~250ms to index a typical repo on our benchmark, ~1.5ms per query on CPU (very large repos may take longer)<p>- Accurate: 0.854 NDCG@10, 99% of the best transformer setup we tested<p>- MCP server: drop-in for Claude Code, Cursor, Codex, OpenCode<p>- Zero config: no API keys, no GPU, no external services<p>Install in Claude Code with:\nclaude mcp add semble -s user -- uvx --from \"semble[mcp]\" semble<p>Or check our README for other installation instructions, benchmarks, and methodology:<p>Semble: <a href=\"https://github.com/MinishLab/semble\" rel=\"nofollow\">https://github.com/MinishLab/semble</a><p>Benchmarks: <a href=\"https://github.com/MinishLab/semble/tree/main/benchmarks\" rel=\"nofollow\">https://github.com/MinishLab/semble/tree/main/benchmarks</a><p>Model: <a href=\"https://huggingface.co/minishlab/potion-code-16M\" rel=\"nofollow\">https://huggingface.co/minishlab/potion-code-16M</a><p>Let us know if you have any feedback or questions!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48169874\">https://news.ycombinator.com/item?id=48169874</a></p>\n<p>Points: 321</p>\n<p># Comments: 111</p>\n",
+      "contentSnippet": "Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can't find something directly, it falls back to grep, reading full files or launching subagents. This uses a lot of tokens, and often still misses the relevant code. There are existing tools for this, but they were either too slow to index on demand, needed API keys, or had poor retrieval quality.\nSemble is our solution for this. It combines static Model2Vec embeddings (using our latest static model: potion-code-16M) with BM25, fused via RRF and reranked with code-aware signals. Everything runs on CPU since there's no transformers involved. On our benchmark of ~1250 query/document pairs across 63 repos and 19 languages, it uses 98% fewer tokens than grep+read and reaches 99% of the retrieval quality of a 137M-parameter code-trained transformer, while being ~200x faster.\nMain features:\n- Token-efficient: 98% fewer tokens than grep+read\n- Fast: ~250ms to index a typical repo on our benchmark, ~1.5ms per query on CPU (very large repos may take longer)\n- Accurate: 0.854 NDCG@10, 99% of the best transformer setup we tested\n- MCP server: drop-in for Claude Code, Cursor, Codex, OpenCode\n- Zero config: no API keys, no GPU, no external services\nInstall in Claude Code with:\nclaude mcp add semble -s user -- uvx --from \"semble[mcp]\" semble\nOr check our README for other installation instructions, benchmarks, and methodology:\nSemble: https://github.com/MinishLab/semble\nBenchmarks: https://github.com/MinishLab/semble/tree/main/benchmarks\nModel: https://huggingface.co/minishlab/potion-code-16M\nLet us know if you have any feedback or questions!\nComments URL: https://news.ycombinator.com/item?id=48169874\nPoints: 321\n# Comments: 111",
+      "creator": "Bibabomas",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+      "link": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+      "pubDate": "Sun, 17 May 2026 13:42:30 +0000",
+      "isoDate": "2026-05-17T13:42:30.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html\">https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48168856\">https://news.ycombinator.com/item?id=48168856</a></p>\n<p>Points: 565</p>\n<p># Comments: 258</p>\n",
+      "contentSnippet": "Article URL: https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html\nComments URL: https://news.ycombinator.com/item?id=48168856\nPoints: 565\n# Comments: 258",
+      "creator": "nolok",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "WHO declares Ebola outbreak a global health emergency",
+      "link": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+      "pubDate": "Sun, 17 May 2026 13:22:14 +0000",
+      "isoDate": "2026-05-17T13:22:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html\">https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48168708\">https://news.ycombinator.com/item?id=48168708</a></p>\n<p>Points: 303</p>\n<p># Comments: 190</p>\n",
+      "contentSnippet": "Article URL: https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html\nComments URL: https://news.ycombinator.com/item?id=48168708\nPoints: 303\n# Comments: 190",
+      "creator": "zzzeek",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "link": "https://github.com/tech4bot/rk3562deb",
+      "pubDate": "Sun, 17 May 2026 13:16:27 +0000",
+      "isoDate": "2026-05-17T13:16:27.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/tech4bot/rk3562deb\">https://github.com/tech4bot/rk3562deb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48168668\">https://news.ycombinator.com/item?id=48168668</a></p>\n<p>Points: 362</p>\n<p># Comments: 169</p>\n",
+      "contentSnippet": "Article URL: https://github.com/tech4bot/rk3562deb\nComments URL: https://news.ycombinator.com/item?id=48168668\nPoints: 362\n# Comments: 169",
+      "creator": "tech4bot",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "AI is a technology not a product",
+      "link": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+      "pubDate": "Sun, 17 May 2026 13:11:20 +0000",
+      "isoDate": "2026-05-17T13:11:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://daringfireball.net/2026/05/ai_is_technology_not_a_product\">https://daringfireball.net/2026/05/ai_is_technology_not_a_product</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48168626\">https://news.ycombinator.com/item?id=48168626</a></p>\n<p>Points: 407</p>\n<p># Comments: 175</p>\n",
+      "contentSnippet": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product\nComments URL: https://news.ycombinator.com/item?id=48168626\nPoints: 407\n# Comments: 175",
+      "creator": "ch_sm",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "CUDA Books",
+      "link": "https://github.com/alternbits/awesome-cuda-books",
+      "pubDate": "Sun, 17 May 2026 12:52:06 +0000",
+      "isoDate": "2026-05-17T12:52:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/alternbits/awesome-cuda-books\">https://github.com/alternbits/awesome-cuda-books</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48168485\">https://news.ycombinator.com/item?id=48168485</a></p>\n<p>Points: 194</p>\n<p># Comments: 46</p>\n",
+      "contentSnippet": "Article URL: https://github.com/alternbits/awesome-cuda-books\nComments URL: https://news.ycombinator.com/item?id=48168485\nPoints: 194\n# Comments: 46",
+      "creator": "dariubs",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "I don't think AI will make your processes go faster",
+      "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "pubDate": "Sun, 17 May 2026 12:13:45 +0000",
+      "isoDate": "2026-05-17T12:13:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/\">https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48168221\">https://news.ycombinator.com/item?id=48168221</a></p>\n<p>Points: 591</p>\n<p># Comments: 405</p>\n",
+      "contentSnippet": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/\nComments URL: https://news.ycombinator.com/item?id=48168221\nPoints: 591\n# Comments: 405",
+      "creator": "TheEdonian",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Apple Silicon costs more than OpenRouter",
+      "link": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+      "pubDate": "Sun, 17 May 2026 12:09:23 +0000",
+      "isoDate": "2026-05-17T12:09:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html\">https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48168198\">https://news.ycombinator.com/item?id=48168198</a></p>\n<p>Points: 316</p>\n<p># Comments: 274</p>\n",
+      "contentSnippet": "Article URL: https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html\nComments URL: https://news.ycombinator.com/item?id=48168198\nPoints: 316\n# Comments: 274",
+      "creator": "datadrivenangel",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Native all the way, until you need text",
+      "link": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+      "pubDate": "Sun, 17 May 2026 11:49:46 +0000",
+      "isoDate": "2026-05-17T11:49:46.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/\">https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48168058\">https://news.ycombinator.com/item?id=48168058</a></p>\n<p>Points: 420</p>\n<p># Comments: 280</p>\n",
+      "contentSnippet": "Article URL: https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/\nComments URL: https://news.ycombinator.com/item?id=48168058\nPoints: 420\n# Comments: 280",
+      "creator": "dive",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "AI subscriptions are a ticking time bomb for enterprise",
+      "link": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+      "pubDate": "Sun, 17 May 2026 11:49:31 +0000",
+      "isoDate": "2026-05-17T11:49:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.thestateofbrand.com/news/ai-subscription-time-bomb\">https://www.thestateofbrand.com/news/ai-subscription-time-bomb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48168056\">https://news.ycombinator.com/item?id=48168056</a></p>\n<p>Points: 394</p>\n<p># Comments: 387</p>\n",
+      "contentSnippet": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb\nComments URL: https://news.ycombinator.com/item?id=48168056\nPoints: 394\n# Comments: 387",
+      "creator": "mooreds",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Ten Signs of Fascism. America has all of them",
+      "link": "https://rutgerbregman.substack.com/p/10-signs-of-fascism-america-has-all",
+      "pubDate": "Sun, 17 May 2026 07:50:57 +0000",
+      "isoDate": "2026-05-17T07:50:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://rutgerbregman.substack.com/p/10-signs-of-fascism-america-has-all\">https://rutgerbregman.substack.com/p/10-signs-of-fascism-america-has-all</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48166877\">https://news.ycombinator.com/item?id=48166877</a></p>\n<p>Points: 195</p>\n<p># Comments: 91</p>\n",
+      "contentSnippet": "Article URL: https://rutgerbregman.substack.com/p/10-signs-of-fascism-america-has-all\nComments URL: https://news.ycombinator.com/item?id=48166877\nPoints: 195\n# Comments: 91",
+      "creator": "fredski42",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "link": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+      "pubDate": "Sun, 17 May 2026 06:17:26 +0000",
+      "isoDate": "2026-05-17T06:17:26.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/\">https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48166459\">https://news.ycombinator.com/item?id=48166459</a></p>\n<p>Points: 740</p>\n<p># Comments: 319</p>\n",
+      "contentSnippet": "Article URL: https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/\nComments URL: https://news.ycombinator.com/item?id=48166459\nPoints: 740\n# Comments: 319",
+      "creator": "WithinReason",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Tesla Solar Roof is on life support as it pivot to panels",
+      "link": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
+      "pubDate": "Sun, 17 May 2026 04:09:52 +0000",
+      "isoDate": "2026-05-17T04:09:52.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/\">https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48165980\">https://news.ycombinator.com/item?id=48165980</a></p>\n<p>Points: 252</p>\n<p># Comments: 260</p>\n",
+      "contentSnippet": "Article URL: https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/\nComments URL: https://news.ycombinator.com/item?id=48165980\nPoints: 252\n# Comments: 260",
+      "creator": "celsoazevedo",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "link": "https://maurycyz.com/projects/mcusite/",
+      "pubDate": "Sun, 17 May 2026 01:25:26 +0000",
+      "isoDate": "2026-05-17T01:25:26.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://maurycyz.com/projects/mcusite/\">https://maurycyz.com/projects/mcusite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48165295\">https://news.ycombinator.com/item?id=48165295</a></p>\n<p>Points: 239</p>\n<p># Comments: 21</p>\n",
+      "contentSnippet": "Article URL: https://maurycyz.com/projects/mcusite/\nComments URL: https://news.ycombinator.com/item?id=48165295\nPoints: 239\n# Comments: 21",
+      "creator": "zdw",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
+      "link": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
+      "pubDate": "Sat, 16 May 2026 23:59:47 +0000",
+      "isoDate": "2026-05-16T23:59:47.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/\">https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48164891\">https://news.ycombinator.com/item?id=48164891</a></p>\n<p>Points: 171</p>\n<p># Comments: 65</p>\n",
+      "contentSnippet": "Article URL: https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/\nComments URL: https://news.ycombinator.com/item?id=48164891\nPoints: 171\n# Comments: 65",
+      "creator": "breve",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "A nicer voltmeter clock",
+      "link": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "pubDate": "Sat, 16 May 2026 22:45:16 +0000",
+      "isoDate": "2026-05-16T22:45:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock\">https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48164432\">https://news.ycombinator.com/item?id=48164432</a></p>\n<p>Points: 344</p>\n<p># Comments: 45</p>\n",
+      "contentSnippet": "Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock\nComments URL: https://news.ycombinator.com/item?id=48164432\nPoints: 344\n# Comments: 45",
+      "creator": "surprisetalk",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "link": "https://crates.io/crates/zerostack/1.0.0",
+      "pubDate": "Sat, 16 May 2026 22:23:50 +0000",
+      "isoDate": "2026-05-16T22:23:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://crates.io/crates/zerostack/1.0.0\">https://crates.io/crates/zerostack/1.0.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48164287\">https://news.ycombinator.com/item?id=48164287</a></p>\n<p>Points: 547</p>\n<p># Comments: 303</p>\n",
+      "contentSnippet": "Article URL: https://crates.io/crates/zerostack/1.0.0\nComments URL: https://news.ycombinator.com/item?id=48164287\nPoints: 547\n# Comments: 303",
+      "creator": "gidellav",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "link": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "pubDate": "Sat, 16 May 2026 20:14:06 +0000",
+      "isoDate": "2026-05-16T20:14:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://openai.com/index/malta-chatgpt-plus-partnership/\">https://openai.com/index/malta-chatgpt-plus-partnership/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48163392\">https://news.ycombinator.com/item?id=48163392</a></p>\n<p>Points: 319</p>\n<p># Comments: 329</p>\n",
+      "contentSnippet": "Article URL: https://openai.com/index/malta-chatgpt-plus-partnership/\nComments URL: https://news.ycombinator.com/item?id=48163392\nPoints: 319\n# Comments: 329",
+      "creator": "bookofjoe",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Halt and Catch Fire",
+      "link": "https://unstack.io/halt-and-catch-fire",
+      "pubDate": "Sat, 16 May 2026 18:16:29 +0000",
+      "isoDate": "2026-05-16T18:16:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://unstack.io/halt-and-catch-fire\">https://unstack.io/halt-and-catch-fire</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48162468\">https://news.ycombinator.com/item?id=48162468</a></p>\n<p>Points: 203</p>\n<p># Comments: 105</p>\n",
+      "contentSnippet": "Article URL: https://unstack.io/halt-and-catch-fire\nComments URL: https://news.ycombinator.com/item?id=48162468\nPoints: 203\n# Comments: 105",
+      "creator": "ScottWRobinson",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "HTML Lists",
+      "link": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
+      "pubDate": "Sat, 16 May 2026 16:58:26 +0000",
+      "isoDate": "2026-05-16T16:58:26.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/\">https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48161861\">https://news.ycombinator.com/item?id=48161861</a></p>\n<p>Points: 349</p>\n<p># Comments: 87</p>\n",
+      "contentSnippet": "Article URL: https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/\nComments URL: https://news.ycombinator.com/item?id=48161861\nPoints: 349\n# Comments: 87",
+      "creator": "speckx",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "link": "https://www.seangoedecke.com/steering-vectors/",
+      "pubDate": "Sat, 16 May 2026 14:58:16 +0000",
+      "isoDate": "2026-05-16T14:58:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.seangoedecke.com/steering-vectors/\">https://www.seangoedecke.com/steering-vectors/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48160807\">https://news.ycombinator.com/item?id=48160807</a></p>\n<p>Points: 269</p>\n<p># Comments: 75</p>\n",
+      "contentSnippet": "Article URL: https://www.seangoedecke.com/steering-vectors/\nComments URL: https://news.ycombinator.com/item?id=48160807\nPoints: 269\n# Comments: 75",
+      "creator": "Brajeshwar",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "link": "https://nvlabs.github.io/Sana/WM/",
+      "pubDate": "Sat, 16 May 2026 12:06:21 +0000",
+      "isoDate": "2026-05-16T12:06:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://nvlabs.github.io/Sana/WM/\">https://nvlabs.github.io/Sana/WM/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48159445\">https://news.ycombinator.com/item?id=48159445</a></p>\n<p>Points: 393</p>\n<p># Comments: 147</p>\n",
+      "contentSnippet": "Article URL: https://nvlabs.github.io/Sana/WM/\nComments URL: https://news.ycombinator.com/item?id=48159445\nPoints: 393\n# Comments: 147",
+      "creator": "mjgil",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Accelerando (2005)",
+      "link": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+      "pubDate": "Sat, 16 May 2026 11:36:32 +0000",
+      "isoDate": "2026-05-16T11:36:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html\">https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48159241\">https://news.ycombinator.com/item?id=48159241</a></p>\n<p>Points: 327</p>\n<p># Comments: 196</p>\n",
+      "contentSnippet": "Article URL: https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html\nComments URL: https://news.ycombinator.com/item?id=48159241\nPoints: 327\n# Comments: 196",
+      "creator": "eamag",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "δ-mem: Efficient Online Memory for Large Language Models",
+      "link": "https://arxiv.org/abs/2605.12357",
+      "pubDate": "Sat, 16 May 2026 09:30:06 +0000",
+      "isoDate": "2026-05-16T09:30:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arxiv.org/abs/2605.12357\">https://arxiv.org/abs/2605.12357</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48158506\">https://news.ycombinator.com/item?id=48158506</a></p>\n<p>Points: 236</p>\n<p># Comments: 59</p>\n",
+      "contentSnippet": "Article URL: https://arxiv.org/abs/2605.12357\nComments URL: https://news.ycombinator.com/item?id=48158506\nPoints: 236\n# Comments: 59",
+      "creator": "44za12",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Fecal transplants for autism deliver success in clinical trials (2019)",
+      "link": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
+      "pubDate": "Sat, 16 May 2026 09:27:59 +0000",
+      "isoDate": "2026-05-16T09:27:59.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/\">https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48158494\">https://news.ycombinator.com/item?id=48158494</a></p>\n<p>Points: 322</p>\n<p># Comments: 225</p>\n",
+      "contentSnippet": "Article URL: https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/\nComments URL: https://news.ycombinator.com/item?id=48158494\nPoints: 322\n# Comments: 225",
+      "creator": "breve",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "link": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "pubDate": "Sat, 16 May 2026 09:14:26 +0000",
+      "isoDate": "2026-05-16T09:14:26.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/\">https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48158400\">https://news.ycombinator.com/item?id=48158400</a></p>\n<p>Points: 671</p>\n<p># Comments: 376</p>\n",
+      "contentSnippet": "Article URL: https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/\nComments URL: https://news.ycombinator.com/item?id=48158400\nPoints: 671\n# Comments: 376",
+      "creator": "mpweiher",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-05-18T10:15:13.376Z"
+}

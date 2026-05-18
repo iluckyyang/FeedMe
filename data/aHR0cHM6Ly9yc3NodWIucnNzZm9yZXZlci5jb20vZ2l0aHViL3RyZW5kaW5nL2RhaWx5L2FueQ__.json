@@ -1,0 +1,189 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "tinyhumansai/openhuman",
+      "link": "https://github.com/tinyhumansai/openhuman",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ecc42d0a093b43790e1258650c1146864b974450220493151666a9b46222d6ff/tinyhumansai/openhuman\" referrerpolicy=\"no-referrer\"><br>Your Personal AI super intelligence. Private, Simple and extremely powerful.<br><br>Language: Rust<br>Stars: 15174<br>Forks: 1308",
+      "contentSnippet": "Your Personal AI super intelligence. Private, Simple and extremely powerful.\nLanguage: Rust\nStars: 15174\nForks: 1308",
+      "creator": "tinyhumansai",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "HKUDS/CLI-Anything",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2ade1a00f34da580a3f9ef9b7f16cd1859b18a577f802a8d58a93e6bd1dbc9df/HKUDS/CLI-Anything\" referrerpolicy=\"no-referrer\"><br>\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/<br><br>Language: Python<br>Stars: 36214<br>Forks: 3520",
+      "contentSnippet": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\nLanguage: Python\nStars: 36214\nForks: 3520",
+      "creator": "HKUDS",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "calcom/cal.diy",
+      "link": "https://github.com/calcom/cal.diy",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4874e8576e190c8efac3b376edbce0ae501ef27ab51f7257f8ee016444f59148/calcom/cal.diy\" referrerpolicy=\"no-referrer\"><br>Scheduling infrastructure for absolutely everyone.<br><br>Language: TypeScript<br>Stars: 43510<br>Forks: 13432",
+      "contentSnippet": "Scheduling infrastructure for absolutely everyone.\nLanguage: TypeScript\nStars: 43510\nForks: 13432",
+      "creator": "calcom",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "oven-sh/bun",
+      "link": "https://github.com/oven-sh/bun",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b789517864899c9aebbb246e0cdb1bd89b55bb9c1d8484c90b67bb6f10c08ffc/oven-sh/bun\" referrerpolicy=\"no-referrer\"><br>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one<br><br>Language: Rust<br>Stars: 91867<br>Forks: 4587",
+      "contentSnippet": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one\nLanguage: Rust\nStars: 91867\nForks: 4587",
+      "creator": "oven-sh",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Anil-matcha/Open-Generative-AI",
+      "link": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/979bd7a606e18d3b4ae18c47bfb7f1bf926745e90d5c8379483c91edcbd7c1cc/Anil-matcha/Open-Generative-AI\" referrerpolicy=\"no-referrer\"><br>Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.<br><br>Language: JavaScript<br>Stars: 15551<br>Forks: 2636",
+      "contentSnippet": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.\nLanguage: JavaScript\nStars: 15551\nForks: 2636",
+      "creator": "Anil-matcha",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "BigBodyCobain/Shadowbroker",
+      "link": "https://github.com/BigBodyCobain/Shadowbroker",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/465011af110a43eb7803450c421ddd26bc591c36eef0821fd2ee5c0067b596a1/BigBodyCobain/Shadowbroker\" referrerpolicy=\"no-referrer\"><br>Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.<br><br>Language: Python<br>Stars: 7420<br>Forks: 1161",
+      "contentSnippet": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.\nLanguage: Python\nStars: 7420\nForks: 1161",
+      "creator": "BigBodyCobain",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "tech-leads-club/agent-skills",
+      "link": "https://github.com/tech-leads-club/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f85b574c5b0f091b5bc980db0639ea57343e79d5b674b98410d12c5309392fb0/tech-leads-club/agent-skills\" referrerpolicy=\"no-referrer\"><br>The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.<br><br>Language: TypeScript<br>Stars: 3772<br>Forks: 333",
+      "contentSnippet": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.\nLanguage: TypeScript\nStars: 3772\nForks: 333",
+      "creator": "tech-leads-club",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "NirDiamant/agents-towards-production",
+      "link": "https://github.com/NirDiamant/agents-towards-production",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b3a5113fbfd7762dcaf93c5b8983be5dd646cebd5754416927f6e1482d6f058f/NirDiamant/agents-towards-production\" referrerpolicy=\"no-referrer\"><br>End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.<br><br>Language: Jupyter Notebook<br>Stars: 20123<br>Forks: 2665",
+      "contentSnippet": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.\nLanguage: Jupyter Notebook\nStars: 20123\nForks: 2665",
+      "creator": "NirDiamant",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "dograh-hq/dograh",
+      "link": "https://github.com/dograh-hq/dograh",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5def4c1868308e4b1993ee8ec05e5ae4f42506754d2fa2fa324fb5bb2b9cddf1/dograh-hq/dograh\" referrerpolicy=\"no-referrer\"><br>Open Source Voice Agent Platform<br><br>Language: Python<br>Stars: 1999<br>Forks: 407",
+      "contentSnippet": "Open Source Voice Agent Platform\nLanguage: Python\nStars: 1999\nForks: 407",
+      "creator": "dograh-hq",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/47aa0a7e1a0dcf8ce2973a668482086f5824ee4dfb067a6bdac205fdaf7a9d04/K-Dense-AI/scientific-agent-skills\" referrerpolicy=\"no-referrer\"><br>A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.<br><br>Language: Python<br>Stars: 24091<br>Forks: 2556",
+      "contentSnippet": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.\nLanguage: Python\nStars: 24091\nForks: 2556",
+      "creator": "K-Dense-AI",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Light-Heart-Labs/DreamServer",
+      "link": "https://github.com/Light-Heart-Labs/DreamServer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/46bc3edb4cfc95ac0ca72cc7e2143309e7125f0fefd01609ef20dcb1fdda6c71/Light-Heart-Labs/DreamServer\" referrerpolicy=\"no-referrer\"><br>Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.<br><br>Language: Python<br>Stars: 1410<br>Forks: 219",
+      "contentSnippet": "Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.\nLanguage: Python\nStars: 1410\nForks: 219",
+      "creator": "Light-Heart-Labs",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "KeygraphHQ/shannon",
+      "link": "https://github.com/KeygraphHQ/shannon",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/64859c553ae56ed0d05480f965cb7f5eee12814655de252fd4900b4878b7b604/KeygraphHQ/shannon\" referrerpolicy=\"no-referrer\"><br>Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.<br><br>Language: TypeScript<br>Stars: 42945<br>Forks: 4890",
+      "contentSnippet": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.\nLanguage: TypeScript\nStars: 42945\nForks: 4890",
+      "creator": "KeygraphHQ",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "TryGhost/Ghost",
+      "link": "https://github.com/TryGhost/Ghost",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/9852918/00a30c89-8209-45f3-b71b-cbcd5816dc88\" referrerpolicy=\"no-referrer\"><br>Independent technology for modern publishing, memberships, subscriptions and newsletters.<br><br>Language: JavaScript<br>Stars: 53477<br>Forks: 11624",
+      "contentSnippet": "Independent technology for modern publishing, memberships, subscriptions and newsletters.\nLanguage: JavaScript\nStars: 53477\nForks: 11624",
+      "creator": "TryGhost",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "medusajs/medusa",
+      "link": "https://github.com/medusajs/medusa",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/234739976/3c61a11d-3161-4a40-955a-c99e1b7a2094\" referrerpolicy=\"no-referrer\"><br>The world's most flexible commerce platform.<br><br>Language: TypeScript<br>Stars: 33683<br>Forks: 4489",
+      "contentSnippet": "The world's most flexible commerce platform.\nLanguage: TypeScript\nStars: 33683\nForks: 4489",
+      "creator": "medusajs",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "knadh/listmonk",
+      "link": "https://github.com/knadh/listmonk",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/193833307/8d94bb7b-e76e-4a8e-8944-ebee3c0d0e70\" referrerpolicy=\"no-referrer\"><br>High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.<br><br>Language: Go<br>Stars: 20762<br>Forks: 2160",
+      "contentSnippet": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.\nLanguage: Go\nStars: 20762\nForks: 2160",
+      "creator": "knadh",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "plausible/analytics",
+      "link": "https://github.com/plausible/analytics",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/160427405/a69227b3-d3c7-4227-bc15-3dc8cade3def\" referrerpolicy=\"no-referrer\"><br>Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.<br><br>Language: Elixir<br>Stars: 25676<br>Forks: 1479",
+      "contentSnippet": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.\nLanguage: Elixir\nStars: 25676\nForks: 1479",
+      "creator": "plausible",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "colbymchenry/codegraph",
+      "link": "https://github.com/colbymchenry/codegraph",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/669e53fe94675efa9ffd9209605619e2a580bfb523bebd87905d19bbfa2d82d4/colbymchenry/codegraph\" referrerpolicy=\"no-referrer\"><br>Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local<br><br>Language: TypeScript<br>Stars: 3848<br>Forks: 280",
+      "contentSnippet": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local\nLanguage: TypeScript\nStars: 3848\nForks: 280",
+      "creator": "colbymchenry",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "microsoft/ai-agents-for-beginners",
+      "link": "https://github.com/microsoft/ai-agents-for-beginners",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8a7394b713e7b88a0245a9f02d33606f063fa7071f2f8e450cd420a7ba53590c/microsoft/ai-agents-for-beginners\" referrerpolicy=\"no-referrer\"><br>12 Lessons to Get Started Building AI Agents<br><br>Language: Jupyter Notebook<br>Stars: 63019<br>Forks: 21117",
+      "contentSnippet": "12 Lessons to Get Started Building AI Agents\nLanguage: Jupyter Notebook\nStars: 63019\nForks: 21117",
+      "creator": "microsoft",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-05-18T10:15:20.396Z"
+}

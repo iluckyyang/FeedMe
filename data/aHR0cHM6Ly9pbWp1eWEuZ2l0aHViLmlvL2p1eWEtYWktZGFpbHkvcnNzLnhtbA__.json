@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://imjuya.github.io/juya-ai-daily/rss.xml",
+  "title": "橘鸦AI早报",
+  "description": "资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。RSS正常提供服务中，但Folo存在问题，接收不到最新文章。建议使用其他RSS阅读器",
+  "link": "https://imjuya.github.io/juya-ai-daily/",
+  "items": [
+    {
+      "title": "2026-05-18",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-94/",
+      "pubDate": "Mon, 18 May 2026 01:19:53 +0000",
+      "isoDate": "2026-05-18T01:19:53.000Z",
+      "content": "AI 早报 2026-05-18 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 知乎数据开放平台提供搜索、热榜和直答服务，支持 Skills 或 API 调用 ↗ #1 中国电信发布多档Token套餐 月费9.9元起 ↗ #2 行业动态 有关部门计划推进全国一体化算力网建设 ↗ #3 Google DeepMind 面向亚太区推出 AI for the Planet 加速器计划 ↗ #4 前瞻与传闻 消息称 Gemini 应用特定模式悄然路由至疑似 3.2 新模型 ↗ #5 报道称 OpenAI 正在测试 Codex 多设备远程控制与“Locked Use”功能 ↗ #6 知乎数据开放平台提供搜索、热榜和直答服务，支持 Skills 或 API 调用 #1 据用户发现，知乎数据开放平台现已提供站内搜索…",
+      "contentSnippet": "AI 早报 2026-05-18 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 知乎数据开放平台提供搜索、热榜和直答服务，支持 Skills 或 API 调用 ↗ #1 中国电信发布多档Token套餐 月费9.9元起 ↗ #2 行业动态 有关部门计划推进全国一体化算力网建设 ↗ #3 Google DeepMind 面向亚太区推出 AI for the Planet 加速器计划 ↗ #4 前瞻与传闻 消息称 Gemini 应用特定模式悄然路由至疑似 3.2 新模型 ↗ #5 报道称 OpenAI 正在测试 Codex 多设备远程控制与“Locked Use”功能 ↗ #6 知乎数据开放平台提供搜索、热榜和直答服务，支持 Skills 或 API 调用 #1 据用户发现，知乎数据开放平台现已提供站内搜索…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-05-17",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-93/",
+      "pubDate": "Sun, 17 May 2026 01:06:22 +0000",
+      "isoDate": "2026-05-17T01:06:22.000Z",
+      "content": "AI 早报 2026-05-17 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Codex发布更新：自定义快捷键、Git优化与大幅性能提升 ↗ #1 Codex 修复 GPT-5.5 性能下降问题并重置付费用户额度 ↗ #2 Vercel Labs 推出面向 Agent 的实验性编程语言 Zero ↗ #3 产品应用 微信读书推出 AI 助手 Skill ↗ #4 行业动态 OpenAI 与马耳他政府合作向完成培训的公民提供一年免费 ChatGPT Plus ↗ #5 上海电信上线Token算力服务及免费体验活动 ↗ #6 Codex发布更新：自定义快捷键、Git优化与大幅性能提升 #1 Codex 发布多项功能与性能改进，现已支持自定义键盘快捷键、优化 Git 操作并提升线程面板和本地服务器列表体验…",
+      "contentSnippet": "AI 早报 2026-05-17 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Codex发布更新：自定义快捷键、Git优化与大幅性能提升 ↗ #1 Codex 修复 GPT-5.5 性能下降问题并重置付费用户额度 ↗ #2 Vercel Labs 推出面向 Agent 的实验性编程语言 Zero ↗ #3 产品应用 微信读书推出 AI 助手 Skill ↗ #4 行业动态 OpenAI 与马耳他政府合作向完成培训的公民提供一年免费 ChatGPT Plus ↗ #5 上海电信上线Token算力服务及免费体验活动 ↗ #6 Codex发布更新：自定义快捷键、Git优化与大幅性能提升 #1 Codex 发布多项功能与性能改进，现已支持自定义键盘快捷键、优化 Git 操作并提升线程面板和本地服务器列表体验…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-05-16",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-92/",
+      "pubDate": "Sat, 16 May 2026 01:11:58 +0000",
+      "isoDate": "2026-05-16T01:11:58.000Z",
+      "content": "AI 早报 2026-05-16 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 SpaceXAI 开放 Grok 订阅连接 Hermes Agent ↗ #1 Anthropic 重置全体用户速率限制 ↗ #2 模型发布 上海人工智能实验室发布 Intern-S2-Preview 模型 ↗ #3 Boson AI 推出实时数字人基础模型 Higgs Avatar v1 ↗ #4 开发生态 Zed 的 Zed agent 新增支持 ChatGPT 订阅接入 ↗ #5 阿里发布Qoder 1.0 升级为Agent自主开发工作台 ↗ #6 通义灵码更名 Qoder CN，升级 Credits 计费并调整价格 ↗ #7 LongCat 宣布将于 5 月 29 日下线 6 款旧模型 #8 OpenAI Codex…",
+      "contentSnippet": "AI 早报 2026-05-16 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 SpaceXAI 开放 Grok 订阅连接 Hermes Agent ↗ #1 Anthropic 重置全体用户速率限制 ↗ #2 模型发布 上海人工智能实验室发布 Intern-S2-Preview 模型 ↗ #3 Boson AI 推出实时数字人基础模型 Higgs Avatar v1 ↗ #4 开发生态 Zed 的 Zed agent 新增支持 ChatGPT 订阅接入 ↗ #5 阿里发布Qoder 1.0 升级为Agent自主开发工作台 ↗ #6 通义灵码更名 Qoder CN，升级 Credits 计费并调整价格 ↗ #7 LongCat 宣布将于 5 月 29 日下线 6 款旧模型 #8 OpenAI Codex…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-05-15",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-90/",
+      "pubDate": "Fri, 15 May 2026 01:00:08 +0000",
+      "isoDate": "2026-05-15T01:00:08.000Z",
+      "content": "AI 早报 2026-05-15 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 ChatGPT 移动应用上线 Codex 远程控制功能 ↗ #1 模型发布 蚂蚁百灵正式开源 Ring-2.6-1T ↗ #2 开发生态 Cline 开源 Cline SDK 并重构底层架构，推出 Cline 2.0 ↗ #3 GitHub 推出原生桌面应用 GitHub Copilot app 技术预览版 ↗ #4 SpaceXAI推出编程Agent工具Grok Build早期测试版 ↗ #5 Kimi 发布 WebBridge 扩展，支持第三方 Agent ↗ #6 OpenClaw 更新 2026.5.12 版 ↗ #7 Hermes Agent 集成 Codex App-Server Runtime ↗ #8 Nous…",
+      "contentSnippet": "AI 早报 2026-05-15 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 ChatGPT 移动应用上线 Codex 远程控制功能 ↗ #1 模型发布 蚂蚁百灵正式开源 Ring-2.6-1T ↗ #2 开发生态 Cline 开源 Cline SDK 并重构底层架构，推出 Cline 2.0 ↗ #3 GitHub 推出原生桌面应用 GitHub Copilot app 技术预览版 ↗ #4 SpaceXAI推出编程Agent工具Grok Build早期测试版 ↗ #5 Kimi 发布 WebBridge 扩展，支持第三方 Agent ↗ #6 OpenClaw 更新 2026.5.12 版 ↗ #7 Hermes Agent 集成 Codex App-Server Runtime ↗ #8 Nous…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-05-14",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-89/",
+      "pubDate": "Thu, 14 May 2026 01:22:48 +0000",
+      "isoDate": "2026-05-14T01:22:48.000Z",
+      "content": "AI 早报 2026-05-14 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 剥离 Claude 程序化调用额度并临时放宽 Claude Code 限额 ↗ #1 模型发布 小米开源 OneVL 自动驾驶框架 ↗ #2 开发生态 MiniMax 合并订阅套餐，上线 Agent Teams 功能 ↗ #3 OpenAI 推出 Codex 企业版限时促销，新用户免费用两月 ↗ #4 支付宝联合扣子编程上线商家入驻与支付集成 Skill ↗ #5 产品应用 DeepSeek 专家模式现无法上传附件 页面提示资源紧张 #6 腾讯宣布微信已支持将聊天记录一键转发至元宝 ↗ #7 Notion 开放 Agent 编排与自定义工具 ↗ #8 Runway 推出对话式视频生成工具 Runway Ag…",
+      "contentSnippet": "AI 早报 2026-05-14 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 剥离 Claude 程序化调用额度并临时放宽 Claude Code 限额 ↗ #1 模型发布 小米开源 OneVL 自动驾驶框架 ↗ #2 开发生态 MiniMax 合并订阅套餐，上线 Agent Teams 功能 ↗ #3 OpenAI 推出 Codex 企业版限时促销，新用户免费用两月 ↗ #4 支付宝联合扣子编程上线商家入驻与支付集成 Skill ↗ #5 产品应用 DeepSeek 专家模式现无法上传附件 页面提示资源紧张 #6 腾讯宣布微信已支持将聊天记录一键转发至元宝 ↗ #7 Notion 开放 Agent 编排与自定义工具 ↗ #8 Runway 推出对话式视频生成工具 Runway Ag…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-05-13",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-88/",
+      "pubDate": "Wed, 13 May 2026 01:40:01 +0000",
+      "isoDate": "2026-05-13T01:40:01.000Z",
+      "content": "AI 早报 2026-05-13 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Google 发布 Gemini Intelligence 升级安卓体验 ↗ #1 模型发布 Claude Opus 4.7 快速模式以研究预览形式上线 API 及多款工具 ↗ #2 Jina AI 新模型 jina-embeddings-v5-omni 支持文本图像音视频混合检索 ↗ #3 Perceptron 推出 Mk1 模型，专攻视频理解与具身推理 ↗ #4 开发生态 GitHub更新Copilot计费与订阅：引入弹性配额与Max计划 ↗ #5 Xiaomi MiMo 发布 API 适配说明：未回传 reasoning_content 将报错 ↗ #6 “Mini Shai-Hulud”供应链攻击爆发 波及Mistra…",
+      "contentSnippet": "AI 早报 2026-05-13 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Google 发布 Gemini Intelligence 升级安卓体验 ↗ #1 模型发布 Claude Opus 4.7 快速模式以研究预览形式上线 API 及多款工具 ↗ #2 Jina AI 新模型 jina-embeddings-v5-omni 支持文本图像音视频混合检索 ↗ #3 Perceptron 推出 Mk1 模型，专攻视频理解与具身推理 ↗ #4 开发生态 GitHub更新Copilot计费与订阅：引入弹性配额与Max计划 ↗ #5 Xiaomi MiMo 发布 API 适配说明：未回传 reasoning_content 将报错 ↗ #6 “Mini Shai-Hulud”供应链攻击爆发 波及Mistra…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-05-12",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-87/",
+      "pubDate": "Tue, 12 May 2026 00:59:47 +0000",
+      "isoDate": "2026-05-12T00:59:47.000Z",
+      "content": "AI 早报 2026-05-12 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Claude Code 上线 Agent view 功能并新增 /goal 指令 ↗ #1 模型发布 Thinking Machines Lab 发布实时多模态“交互模型” TML-Interaction-Small ↗ #2 OpenBMB 发布开源多模态模型 MiniCPM-V 4.6 ↗ #3 开发生态 Anthropic 推出 Claude Platform on AWS ↗ #4 OpenAI 为 Codex 推出 OpenAI Developers 插件 ↗ #5 OpenCode 宣布 DeepSeek V4 Flash 开启限时免费 ↗ #6 Nous Portal 宣布限时免费提供 Qwen 3.6 Plus…",
+      "contentSnippet": "AI 早报 2026-05-12 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Claude Code 上线 Agent view 功能并新增 /goal 指令 ↗ #1 模型发布 Thinking Machines Lab 发布实时多模态“交互模型” TML-Interaction-Small ↗ #2 OpenBMB 发布开源多模态模型 MiniCPM-V 4.6 ↗ #3 开发生态 Anthropic 推出 Claude Platform on AWS ↗ #4 OpenAI 为 Codex 推出 OpenAI Developers 插件 ↗ #5 OpenCode 宣布 DeepSeek V4 Flash 开启限时免费 ↗ #6 Nous Portal 宣布限时免费提供 Qwen 3.6 Plus…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-05-11",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-86/",
+      "pubDate": "Mon, 11 May 2026 00:39:58 +0000",
+      "isoDate": "2026-05-11T00:39:58.000Z",
+      "content": "AI 早报 2026-05-11 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Codex 周安装量达 8610 万，12 倍于 Claude Code ↗ #1 Hermes Agent 新增 LINE 网关通道 ↗ #2 OpenAI终止开发者自助微调通道 ↗ #3 Hugging Face 推出 hf-sandbox，基于 Jobs 打造云端代码沙箱 ↗ #4 技术与洞察 调查曝光“中转站”利用被盗凭证和模型替换盈利，并出售用户数据 ↗ #5 前瞻与传闻 Jarred Sumner 透露正在将 Bun 运行时从 Zig 重写为 Rust ↗ #6 Codex 周安装量达 8610 万，12 倍于 Claude Code #1 据 a16z 引用 TickerTrends 的数据显示，Codex…",
+      "contentSnippet": "AI 早报 2026-05-11 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Codex 周安装量达 8610 万，12 倍于 Claude Code ↗ #1 Hermes Agent 新增 LINE 网关通道 ↗ #2 OpenAI终止开发者自助微调通道 ↗ #3 Hugging Face 推出 hf-sandbox，基于 Jobs 打造云端代码沙箱 ↗ #4 技术与洞察 调查曝光“中转站”利用被盗凭证和模型替换盈利，并出售用户数据 ↗ #5 前瞻与传闻 Jarred Sumner 透露正在将 Bun 运行时从 Zig 重写为 Rust ↗ #6 Codex 周安装量达 8610 万，12 倍于 Claude Code #1 据 a16z 引用 TickerTrends 的数据显示，Codex…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-05-10",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-85/",
+      "pubDate": "Sun, 10 May 2026 00:44:21 +0000",
+      "isoDate": "2026-05-10T00:44:21.000Z",
+      "content": "AI 早报 2026-05-10 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 百度宣布文心 5.1 模型正式上线 ↗ #1 HiDream-ai 开源 HiDream-O1-Image 图像生成模型 ↗ #2 开发生态 OpenRouter 推出 Pareto Code 实验性编码路由 ↗ #3 技术与洞察 OpenAI 公开内部 Codex 安全运行实践 ↗ #4 Perplexity 公开内部 Agent Skills 设计维护指南 ↗ #5 行业动态 Nous Research 宣布 Hermes Agent 登顶 OpenRouter 应用用量榜 ↗ #6 消息称 Anthropic 与 Akamai 签署 18 亿美元七年合同 ↗ #7 前瞻与传闻 报道称字节跳动今年 AI 基建支出超两千…",
+      "contentSnippet": "AI 早报 2026-05-10 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 百度宣布文心 5.1 模型正式上线 ↗ #1 HiDream-ai 开源 HiDream-O1-Image 图像生成模型 ↗ #2 开发生态 OpenRouter 推出 Pareto Code 实验性编码路由 ↗ #3 技术与洞察 OpenAI 公开内部 Codex 安全运行实践 ↗ #4 Perplexity 公开内部 Agent Skills 设计维护指南 ↗ #5 行业动态 Nous Research 宣布 Hermes Agent 登顶 OpenRouter 应用用量榜 ↗ #6 消息称 Anthropic 与 Akamai 签署 18 亿美元七年合同 ↗ #7 前瞻与传闻 报道称字节跳动今年 AI 基建支出超两千…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "2026-05-09",
+      "link": "https://imjuya.github.io/juya-ai-daily/issue-84/",
+      "pubDate": "Sat, 09 May 2026 01:38:10 +0000",
+      "isoDate": "2026-05-09T01:38:10.000Z",
+      "content": "AI 早报 2026-05-09 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 蚂蚁百灵发布 Ring-2.6-1T，OpenRouter 免费试用一周 ↗ #1 智谱发布 GLM-5V-Turbo 报告，开放Coding Plan用户申请使用 ↗ #2 商汤科技推出SenseNova 6.7 Flash-Lite ↗ #3 阶跃星辰发布 StepAudio 2.5 Realtime 实时语音大模型 ↗ #4 AI2 发布 EMO 模型，实现混合专家语义模块化 ↗ #5 千问团队开源 WebWorld 世界模型面向 Web Agent 训练 ↗ #6 开发生态 OpenClaw 发布 2026.5.7 版，强化权限与更新流程 ↗ #7 AWS 发布 Agent Toolkit for AWS 工具集…",
+      "contentSnippet": "AI 早报 2026-05-09 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 蚂蚁百灵发布 Ring-2.6-1T，OpenRouter 免费试用一周 ↗ #1 智谱发布 GLM-5V-Turbo 报告，开放Coding Plan用户申请使用 ↗ #2 商汤科技推出SenseNova 6.7 Flash-Lite ↗ #3 阶跃星辰发布 StepAudio 2.5 Realtime 实时语音大模型 ↗ #4 AI2 发布 EMO 模型，实现混合专家语义模块化 ↗ #5 千问团队开源 WebWorld 世界模型面向 Web Agent 训练 ↗ #6 开发生态 OpenClaw 发布 2026.5.7 版，强化权限与更新流程 ↗ #7 AWS 发布 Agent Toolkit for AWS 工具集…",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-05-18T10:15:12.220Z"
+}
